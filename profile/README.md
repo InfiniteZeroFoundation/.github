@@ -1,4 +1,4 @@
-# InfiniteZero Foundation 🌱
+# InfiniteZero Foundation 
 *Building decentralized AI infrastructure for public goods and sustainable communities* 🌍
 
 **InfiniteZero Foundation** is a non-profit organization creating **privacy-preserving, decentralized AI infrastructure** and public goods networks. Our mission is to empower **individuals and communities** to **participate, earn, and contribute to inclusive AI-driven economies**, advancing **trustless, decentralized technology** for the benefit of society and the planet.  
