@@ -1,4 +1,5 @@
 # InfiniteZero Foundation
+*Building decentralized AI infrastructure for public goods and sustainable communities* 🌍
 
 **InfiniteZero Foundation** is a non-profit organization building **privacy-preserving, decentralized AI infrastructure** and public goods networks. Our mission is to empower individuals and communities to **participate, earn, and contribute to inclusive AI-driven economies** while advancing **trustless, decentralized technology** for the benefit of society and the planet.  
 
@@ -6,11 +7,13 @@ We develop and maintain the **Decentralized Intelligence Network (DIN)** — an 
 
 ---
 
-## Example: Cacao Farmers Collective
+## Example: Cacao Farmers Collective 🌱
 
-Communities like **cacao farmers in remote regions** can use DIN to **train AI models on local data privately** — such as soil conditions, climate patterns, and crop yields — without sharing sensitive information outside their cooperative. The network aggregates **encrypted updates** to improve AI models that provide actionable insights on **best farming practices, pest management, and climate adaptation**.  
+Communities like **cacao farmers in remote regions** can use DIN to **train AI models on local data privately** — such as soil conditions, climate patterns, and crop yields — without sharing sensitive information outside their cooperative.  
 
-Farmers receive **stablecoin rewards** for their contributions, which they can use to access AI services that improve yields, reduce waste, and enhance income. This creates a **sustainable, privacy-preserving commons** where AI and the community benefit together, demonstrating how **decentralized AI can serve public goods and local economies**.  
+The network aggregates **encrypted updates** to improve AI models that provide actionable insights on **best farming practices, pest management, and climate adaptation**.  
+
+Farmers receive **stablecoin rewards** for their contributions, which they can use to access AI services that improve yields, reduce waste, and enhance income. This creates a **sustainable, privacy-preserving commons** where AI and the community benefit together 🌍, demonstrating how **decentralized AI can serve public goods and local economies**.
 
 ---
 
