@@ -13,7 +13,9 @@ Communities like **cacao farmers in remote regions** can use DIN to **train AI m
 
 The network aggregates **encrypted updates** to improve AI models that provide actionable insights on **best farming practices, pest management, and climate adaptation**.  
 
-Farmers receive **stablecoin rewards** for their contributions, which they can use to access AI services that improve yields, reduce waste, and enhance income. This creates a **sustainable, privacy-preserving commons** where AI and the community benefit together 🌍, demonstrating how **decentralized AI can serve public goods and local economies**.
+Farmers receive **stablecoin rewards** for their contributions, which they can use to access AI services that improve yields, reduce waste, and enhance income. **Stablecoins are primed to become the first step in adopting blockchain for everyday transactions**: a familiar form of exchange that feels as natural as the leap from cash to card, or from card to phone wallets. **From there, using stablecoins for payments and rewards becomes intuitive, bridging traditional practices and blockchain-enabled economies.**  
+
+This creates a **sustainable, privacy-preserving commons** where AI and the community benefit together 🌍, demonstrating how **decentralized AI can serve public goods and local economies**.
 
 ---
 
@@ -42,7 +44,7 @@ By prioritizing smaller, efficient AI models, DIN reduces computational costs an
 
 DIN decentralizes three core societal domains — **money, information, and compute power** — to create a **0-to-1 inclusive AI economy**:  
 
-- **Money:** Stablecoin rewards flow directly to users.  
+- **Money:** Stablecoin rewards flow directly to users, offering a **familiar and frictionless first step toward blockchain adoption** for everyday use.  
 - **Information:** Data remains at the edge, supporting secure, privacy-preserving AI updates.  
 - **Compute Power:** AI runs locally on user devices, reducing reliance on centralized infrastructure.  
 
