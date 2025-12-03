@@ -15,6 +15,8 @@ The network aggregates **encrypted updates** to improve AI models that provide a
 
 Farmers receive **stablecoin rewards** for their contributions, which they can use to access AI services that improve yields, reduce waste, and enhance income. **Stablecoins are primed to become the first step in adopting blockchain for everyday transactions**: a familiar form of exchange that feels as natural as the leap from cash to card, or from card to phone wallets. **From there, using stablecoins for payments and rewards becomes intuitive, bridging traditional practices and blockchain-enabled economies.**  
 
+**Training open-source AI as a public goods commons incurs only a network fee**, while **USDC stablecoin is paid for proprietary model training to data owners**.  
+
 This creates a **sustainable, privacy-preserving commons** where AI and the community benefit together 🌍, demonstrating how **decentralized AI can serve public goods and local economies**.
 
 ---
