@@ -34,10 +34,12 @@ We develop and maintain the **InfiniteZero Network** — an **ownerless, validat
 
 ### Getting Started (Coming Soon)
 
-```bash
+\`\`\`bash
 # Install the InfiniteZero SDK
 npm install @infinitezero/sdk
+\`\`\`
 
+\`\`\`javascript
 // Import the SDK
 import { InfiniteZero } from '@infinitezero/sdk';
 
@@ -46,6 +48,7 @@ const iz = new InfiniteZero({
   modelType: 'commons', // or 'enterprise'
   apiKey: 'your-api-key'
 });
+\`\`\`
 
 ---
 
