@@ -33,10 +33,8 @@ We develop and maintain the **InfiniteZero Network** — an **ownerless, validat
 
 ### Getting Started (Coming Soon)
 
-# Install the InfiniteZero SDK
 npm install @infinitezero/sdk
 
-# Initialize in your app
 import { InfiniteZero } from '@infinitezero/sdk';
 
 const iz = new InfiniteZero({
