@@ -43,7 +43,8 @@ import { InfiniteZero } from '@infinitezero/sdk';
 const iz = new InfiniteZero({
   modelType: 'commons', # or 'enterprise'
   apiKey: 'your-api-key'
-});
+})
+
 
 ---
 
