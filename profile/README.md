@@ -13,11 +13,26 @@ We develop and maintain the **InfiniteZero Network** — an **ownerless, validat
 
 **Easy Integration**: Add powerful AI capabilities without building expensive infrastructure or compromising user privacy
 
-**Two Model Options**:
-- **Open-Source AI Commons**: Access public-good models trained by the community (pay only network fees)
-- **Proprietary Enterprise Models**: Train premium AI for your specific use case (users earn USDC for contributing valuable data)
+## **Two Model Options**:
 
-**Revenue Sharing**: Earn from network fees as your user base contributes to AI training
+- **Open-Source AI Commons**: Access publicly available models that are trained by a wide community of contributors, including individual researchers, developers, companies, open-source enthusiasts, and academic institutions. These models are continually refined by the collective efforts of the community. You only pay the network fees for using the models.
+
+- **Proprietary Enterprise Models**: Develop custom AI models tailored to the specific needs of your business or application. Users earn USDC for contributing valuable data, which helps improve and refine these models over time.
+
+## **Revenue Sharing with InfiniteZero Network**:
+When applications integrate with the **InfiniteZero Network** (DIN), they not only open up their model to the vast **Open-Source AI Commons**, but also unlock a powerful revenue-sharing opportunity. 
+
+Every time users interact with the model and pay network fees to train it, an agreed-upon percentage of those fees is automatically routed back to the application. This means that your application can **earn a revenue share** based on how much your model is used — turning each user interaction and training event into a revenue-generating opportunity.
+
+By contributing to the **Open-Source AI Commons** through the **InfiniteZero Network**, you're not just improving the model; you're creating a **sustainable revenue stream** for your business. As users pay to train models, your application earns from the very data and interaction it helps generate. 
+
+This model allows your business to:
+- **Monetize AI Model Development**: You can earn revenue every time your model is trained, creating ongoing financial incentives for your development efforts.
+- **Strengthen Open-Source Collaboration**: Your model becomes part of a global, open-source ecosystem that is constantly evolving and improving, increasing your visibility and contribution to the AI field.
+- **Leverage Edge Data**: Instead of paying for external data, your application can harness its own user data to continuously improve the model, benefiting both from **AI training** and **user engagement**.
+- **Benefit from Collective Growth**: As more applications join and contribute to the **InfiniteZero Network**, the technology and capabilities grow, benefiting all participants — including your application.
+
+In short, by integrating with **InfiniteZero Network**, you’re not just gaining access to a cutting-edge, collaborative AI model, but also opening up an **ongoing revenue stream** that directly rewards your contributions, helping you build a sustainable business on the back of community-driven AI development.
 
 ### Technical Advantages
 
