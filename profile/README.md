@@ -35,7 +35,7 @@ We develop and maintain the **InfiniteZero Network** — an **ownerless, validat
 ### Getting Started (Coming Soon)
 
 \`\`\`bash
-# Install the InfiniteZero SDK
+#### Install the InfiniteZero SDK
 npm install @infinitezero/sdk
 \`\`\`
 
