@@ -44,6 +44,7 @@ const iz = new InfiniteZero({
   apiKey: 'your-api-key'
 });
 
+
 ---
 
 ## For Application Users 💻
