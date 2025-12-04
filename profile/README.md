@@ -31,14 +31,19 @@ We develop and maintain the **InfiniteZero Network** — an **ownerless, validat
 - ✅ **Decentralized compute across user devices**
 - ✅ **Scalable, modular architecture for any sector**
 
+
 ### Getting Started (Coming Soon)
 
+```bash
+# Install the InfiniteZero SDK
 npm install @infinitezero/sdk
 
+// Import the SDK
 import { InfiniteZero } from '@infinitezero/sdk';
 
+// Initialize the InfiniteZero client
 const iz = new InfiniteZero({
-  modelType: 'commons', # or 'enterprise'
+  modelType: 'commons', // or 'enterprise'
   apiKey: 'your-api-key'
 });
 
