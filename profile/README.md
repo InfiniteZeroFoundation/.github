@@ -106,7 +106,7 @@ The InfiniteZero Network runs seamlessly in the background, enabling application
 
 The InfiniteZero Network decentralizes three core societal domains to create a **0-to-1 inclusive AI economy**:
 
-- **Money**: Stablecoin rewards flow directly to users, while open-source commons training incurs only low-cost network fees.
+- **Money**: Open-source AI commons training incurs only low-cost network fees.
 - **Information**: Data stays at the edge, ensuring privacy-preserving, encrypted AI updates.
 - **Compute Power**: AI training runs locally on user devices, reducing reliance on centralized infrastructure.
 
@@ -118,17 +118,18 @@ This approach ensures that **AI training happens naturally** during daily activi
 
 The InfiniteZero Network is secured through **Proof of Stake**, with validators staking a utility-focused native token to maintain network integrity. Economic activity benefits both users and developers:
 
-- **Users**: Contribute to AI training while keeping data local; earn rewards for proprietary model contributions.
+- **Applications' Users**: Contribute to AI training while keeping data local; earn rewards for proprietary model contributions.
 - **Application Developers**: Build open applications without needing to integrate AI or blockchain directly. They monetize via **network fees** charged to AI developers using InfiniteZero Network’s infrastructure.
 
 ---
 
 ## Progress and Recognition 🏆
 
-- **Edge City 002 Developer Grant** ($40,000) via SHIFT Grants, supported by **Vitalik Buterin**, **Ocean Protocol**, and **Nima Ashgari**.
-- **$5,000 Cosmos Institute Award** for early development.
-- Featured by the **Decentralized Research Center (DRC)** funded by the **Ethereum Foundation**.
-- Selected for **Summit on Responsible Decentralized Intelligence (RDI Berkeley)**, highlighted by **Oxford University Computer Science**.
+- **Recently, Edge City 002 Developer Grant** – $40,000 total via SHIFT Grants, supported directly by **Vitalik Buterin**, **Ocean Protocol**, with matching from **Nima Ashgari:** https://www.edgecity.live/
+- **Cosmos Institute Award** –  $5,000 for early development (Texas & Oxford), supported and advocated by philanthropist Brendan McCord: https://x.com/cosmos_inst, https://x.com/mbrendan1
+- **Featured by the Decentralized Research Center (DRC)**, an organization recently funded by the **Ethereum Foundation:** https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg
+- **Selected for the Summit on Responsible Decentralized Intelligence (RDI Berkeley)**; highlighted by **Oxford University Computer Science:** https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg
+- **Academic Recognition** – Early paper marked with distinction by an MIT supervisor turned Oxford professor. Founded within the **University of Oxford Computer Science Department**, Division of Human-Centered Computing, led by **Sir Nigel Shadbolt** (Ethical AI) and **Emeritus Faculty Sir Tim Berners-Lee** (Inventor of the World Wide Web). The division specializes in **decentralized web-of-data architectures:** https://www.cs.ox.ac.uk/research/HCC/people.html
 
 ---
 
