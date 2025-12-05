@@ -70,9 +70,7 @@ For proprietary AI models, data owners are compensated in **USDC stablecoins**, 
 
 This approach creates a sustainable, privacy-preserving AI commons, where both AI developers and local communities benefit 🌍, demonstrating how decentralized AI can serve public goods and strengthen local economies.
 
-_InfiniteZero uses lightweight, edge-optimized models, so even basic CPUs — including older laptops, mid-range smartphones, or Raspberry Pi–class devices — are sufficient. No GPU or powerful hardware is required.
-_
-
+*InfiniteZero uses lightweight, edge-optimized models, so even basic CPUs — including older laptops, mid-range smartphones, or Raspberry Pi–class devices — are sufficient. No GPU or powerful hardware is required.*
 
 ---
 
