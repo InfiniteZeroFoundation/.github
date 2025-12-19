@@ -60,17 +60,15 @@ The InfiniteZero Network empowers you to contribute to AI training through every
 
 ## Real-World Use Cases 🌱
 
-### Cacao Farmers Collective 🌾
+### Open-Platform Fitness Wearable Ecosystem
 
-Communities like cacao farmers in remote regions can use the InfiniteZero Network to train AI models on local data — such as soil conditions, climate patterns, and crop yields — privately and securely, without sharing sensitive information outside their cooperative.
+Open-platform fitness wearable ecosystems (e.g., ReflexDAO) can use the InfiniteZero Network to train **open-source AI models** directly on-device using user-consented biometric signals such as sleep patterns, movement, heart rate variability, and recovery metrics — without raw data ever leaving the device.
 
-The network aggregates encrypted updates to improve AI models that offer actionable insights on best farming practices, pest management, and climate adaptation. Farmers receive stablecoin rewards for their contributions, which they can use to access AI-driven services that enhance yields, reduce waste, and increase income.
+The network aggregates encrypted model updates to improve shared, open-source AI models that deliver actionable, educational insights for daily health optimization, recovery, and long-term wellness. **Training these open models is funded solely through an ETH-denominated network fee**, a portion of which is routed directly to the application owner, incentivizing open experimentation and increasing the overall utility of the ecosystem.
 
-For proprietary AI models, data owners are compensated in **USDC stablecoins**, while training open-source AI as a public goods commons incurs only a network fee.
+For **proprietary or premium models**, users can explicitly opt in to have their data used to **fine-tune specific models** under clearly defined terms. In these cases, **data owners are compensated in USDT stablecoins** for contributing to model training, while applications continue to benefit from network participation and fee sharing. This approach preserves privacy and user control while enabling high-quality, model-specific improvements on top of the shared infrastructure.
 
-This approach creates a sustainable, privacy-preserving AI commons, where both AI developers and local communities benefit 🌍, demonstrating how decentralized AI can serve public goods and strengthen local economies.
-
-*InfiniteZero uses lightweight, edge-optimized models, so even basic CPUs — including older laptops, mid-range smartphones, or Raspberry Pi–class devices — are sufficient. No GPU or powerful hardware is required.*
+*InfiniteZero uses lightweight, edge-optimized models, enabling training and inference on basic CPUs — including older laptops, mid-range smartphones, and Raspberry Pi–class devices. No large-scale GPU infrastructure or high-performance centralized hardware required.*
 
 ---
 
