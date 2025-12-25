@@ -14,7 +14,7 @@ We develop and maintain the **InfiniteZero Network** — an **ownerless, validat
 
 ### Two Model Options
 - **Open-Source AI Commons**: Access publicly available models trained by a global community. You only pay **network fees when model trainers use your ecosystem**.  
-- **Proprietary Enterprise Models**: Build and customize AI models tailored to your business needs. Users earn **USDC rewards** for contributing valuable data.
+- **Proprietary Enterprise Models**: Build and customize AI models tailored to your business needs. Users earn **stablecoin rewards** for contributing valuable data.
 
 ### Key Benefits for Developers
 - **Monetize AI Model Development**: Earn revenue via **network fees collected when model trainers use your ecosystem**.  
