@@ -123,7 +123,7 @@ The InfiniteZero Network is secured through **Proof of Stake**, with validators 
 
 ## Progress and Recognition 🏆
 
-- **Recently, Edge City 002 Developer Grant** – $40,000 total via SHIFT Grants, supported directly by **Vitalik Buterin** & Co.:** https://www.edgecity.live/
+- **Recently, Edge City 002 Developer Grant** – $40,000 total via SHIFT Grants, supported directly by **Vitalik Buterin & Co.:** https://www.edgecity.live/
 - **Cosmos Institute Award** –  $5,000 for early development (Texas & Oxford), supported and advocated by philanthropist Brendan McCord: https://x.com/cosmos_inst, https://x.com/mbrendan1
 - **Featured by the Decentralized Research Center (DRC)**, an organization recently funded by the **Ethereum Foundation:** https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg
 - **Selected for the Summit on Responsible Decentralized Intelligence (RDI Berkeley)**; highlighted by **Oxford University Computer Science:** https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg
