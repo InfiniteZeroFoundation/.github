@@ -5,7 +5,7 @@
 
 At the core of **InfiniteZero** is a commitment to **decentralization**, **community governance**, and **affordability**. The **InfiniteZero Network** operates **without central ownership or control** and is designed to ensure that power and decision-making remain in the hands of the **community**, rather than any centralized authority. The infrastructure is **trustless** by design, utilizing **decentralized, open-source protocols** and **Ethereum smart contracts** to remove reliance on any single governing entity.
 
-The network’s execution and scaling are powered by **Layer 2 networks**, providing high performance while maintaining network integrity. By shifting compute and data to the **edge**, we ensure that control remains with users, not centralized entities.
+Infinitezero's network execution and scaling are powered by **Layer 2 networks** built on Ethereum smart contracts. These solutions boost performance while maintaining the network’s integrity. By offloading computation and data processing to the **edge** of the network, **Layer 2** ensures that control remains in the hands of users, not centralized authorities.
 
 **InfiniteZero** operates as an **open-source AI commons** and **digital public goods infrastructure**, enabling **applications** and **users** to leverage decentralized AI models to drive better services, insights, and user experiences — all within a fully decentralized ecosystem.
 
