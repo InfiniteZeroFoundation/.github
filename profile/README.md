@@ -1,15 +1,15 @@
 # InfiniteZero Foundation  
-*Building **AI infrastructure for public goods**, ownerless and governed in the open* 🌍
+*Building **AI infrastructure for public goods**, owned and governed by the community* 🌍
 
-**InfiniteZero Foundation** is a non-profit organization dedicated to creating **trustless, non-owned, and privacy-preserving** **AI network infrastructure for public goods**, operating with **only a minimal network fee**. Our mission is to empower **applications** and **communities** to **participate in and contribute to inclusive, AI-driven economies**, advancing **decentralized technologies** built on Ethereum for the benefit of society and the planet.
+**InfiniteZero Foundation** is a non-profit committed to creating **trustless, privacy-preserving AI infrastructure** for public goods, operating with a **minimal network fee**. Our mission is to empower **applications** and **communities** to participate in **AI-driven economies**, advancing **decentralized technologies** built on Ethereum for the benefit of society and the planet.
 
-At the core of **InfiniteZero** is a commitment to **decentralization**, **community governance**, and **affordability**. The **InfiniteZero Network** operates **without central ownership or control** and is designed to ensure that power and decision-making remain in the hands of the **community**, rather than any centralized authority. The infrastructure is **trustless** by design, utilizing **decentralized, open-source protocols** and **Ethereum smart contracts** to remove reliance on any single governing entity.
+At the core of **InfiniteZero** is **decentralization**, **community governance**, and **affordability**. The **InfiniteZero Network** operates without central ownership, ensuring power remains with the **community**. It is **trustless** by design, using **open-source protocols** and **Ethereum smart contracts** to eliminate reliance on centralized control.
 
-Infinitezero's network execution and scaling are powered by **Layer 2 networks** built on Ethereum smart contracts. These solutions boost performance while maintaining the network’s integrity. By offloading computation and data processing to the **edge** of the network, **Layer 2** ensures that control remains in the hands of users, not centralized authorities.
+**InfiniteZero** runs on **Layer 2 networks** built on Ethereum, boosting performance while keeping control with users. By offloading computation to the **edge**, **Layer 2** ensures decentralization and integrity.
 
-**InfiniteZero** operates as an **open-source AI commons** and **digital public goods infrastructure**, enabling **applications** and **users** to leverage decentralized AI models to drive better services, insights, and user experiences — all within a fully decentralized ecosystem.
+As an **open-source AI commons**, **InfiniteZero** enables **users** and **applications** to access decentralized AI models, improving services and driving innovation in a fully decentralized ecosystem.
 
-Together, we are building a future where AI is not only accessible but truly **owned and governed by the people** who use it.
+Together, we’re building a future where AI is **owned and governed by the people** who use it.
 
 ---
 
