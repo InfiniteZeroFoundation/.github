@@ -1,9 +1,14 @@
 # InfiniteZero Foundation  
-*Building **AI infrastructure for public goods**, owned and governed in the open* 🌍
+*Building **AI infrastructure for public goods**, ownerless and governed in the open* 🌍
 
-**InfiniteZero Foundation** is a non-profit organization dedicated to creating **privacy-preserving, public goods AI network infrastructure**. Our mission is to empower **individuals and communities** to **participate in and contribute to inclusive AI-driven economies**, advancing **trustless, decentralized technologies built on Ethereum** for the benefit of society and the planet.
+**InfiniteZero Foundation** is a non-profit organization dedicated to creating **trustless, non-owned, and privacy-preserving** **public goods AI network infrastructure**. Our mission is to empower **individuals and communities** to **participate in and contribute to inclusive AI-driven economies**, advancing **decentralized technologies** built on Ethereum for the benefit of society and the planet.
 
-We develop and maintain the **InfiniteZero Network** — an **ownerless, validator-secured AI protocol**, coordinated and secured via **Ethereum smart contracts**, with execution and scaling supported by **Layer 2 networks**. The network moves compute and data to the **edge**, ensuring that control stays with users rather than centralized authorities. It operates as an **open-source AI commons** and **digital public goods infrastructure**, enabling **applications** and **their users** to leverage decentralized AI models for improved services, insights, and user experiences.
+We are committed to ensuring that the **InfiniteZero Network** operates without central control or ownership. The infrastructure is **trustless** by design, relying on **decentralized, open-source protocols** and **Ethereum smart contracts**, which eliminate the need for any single entity to oversee or control the system. This creates a transparent, community-governed ecosystem where **users** and **validators** maintain and grow the network openly.
+
+The network’s execution and scaling are supported by **Layer 2 networks**, ensuring high performance while maintaining the integrity of a decentralized AI protocol. By moving compute and data to the **edge**, we keep control in the hands of users, rather than centralized authorities.
+
+Through **open-source AI commons** and **digital public goods infrastructure**, **InfiniteZero** enables **applications** and **users** to leverage decentralized AI models for improved services, insights, and user experiences — all within a fully decentralized ecosystem.
+
 
 ---
 
