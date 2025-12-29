@@ -38,7 +38,7 @@ Together, we’re building a future where AI is **owned and governed by the peop
 
 ## For Application Users 💻
 
-### Your Data, Your Control
+### Data Generated, In Your Hands
 
 The InfiniteZero Network empowers you to contribute to AI training through everyday app use, helping improve AI models **without compromising your privacy**.
 
