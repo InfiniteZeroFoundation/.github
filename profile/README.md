@@ -3,7 +3,7 @@
 
 **InfiniteZero Foundation** is a non-profit committed to creating **trustless, privacy-preserving AI infrastructure** for public goods, operating with a **minimal network fee**. Our mission is to empower **applications** and **communities** to participate in **AI-driven economies**, advancing **decentralized technologies built on Ethereum** 🔷 for the benefit of society and the planet.
 
-At the core of **InfiniteZero** is **decentralization**, **community governance**, and **affordability**. The **InfiniteZero Network** operates without central ownership, ensuring power remains with the **community**. It is **trustless** by design, using **open-source protocols** and **Ethereum smart contracts** 🔷 to eliminate reliance on centralized control.
+At the core of **InfiniteZero** is **decentralization**, **community governance**, and **affordability**. The **InfiniteZero Network** operates without central ownership, ensuring power remains with the **community**. It is **trustless** by design, using **open-source protocols** and **Ethereum smart contracts** to eliminate reliance on centralized control.
 
 **InfiniteZero** runs on **Layer 2 networks built on Ethereum**, boosting performance while keeping control with users. By offloading computation to the **edge**, **Layer 2** ensures decentralization and integrity.
 
