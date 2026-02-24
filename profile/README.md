@@ -1,170 +1,114 @@
-# InfiniteZero Foundation  
-*Building **AI infrastructure for public goods**, owned and governed by the community* 🌍
+# InfiniteZero
 
-**InfiniteZero Foundation** is a non-profit committed to creating **trustless, privacy-preserving AI infrastructure** for public goods, operating with a **minimal network fee**. Our mission is to empower **applications** to participate in **AI-driven economies**, advancing **decentralized technologies built on Ethereum** 🔷 for the benefit of society and the planet.
-
-At the core of **InfiniteZero** is **decentralization**, **community governance**, and **affordability**. The **InfiniteZero Network** operates without central ownership, ensuring power remains with the **community**. It is **trustless** by design, using **open-source protocols** and **Ethereum smart contracts** to eliminate reliance on centralized control.
-
-**InfiniteZero** runs on **Ethereum**, boosting performance while keeping control with users. By offloading computation to the **edge**, **Ethereum** ensures decentralization and integrity.
-
-As an **open-source AI commons**, **InfiniteZero** enables **users** and **applications** to access decentralized AI models, improving services and driving innovation in a fully decentralized ecosystem.
-
-Together, we’re building a future where AI is **owned and governed by the people** who use it.
+> The internet gave everyone a voice.
+> Open-source gave everyone a tool.
+> AI is still waiting.
+>
+> **InfiniteZero is building the commons that changes that.**
 
 ---
 
-## For Applications & Developers 🛠️
+## The Idea
 
-### Build AI-Powered Products That Users Trust
-**Easy Integration**: Add powerful AI capabilities to your applications without building expensive infrastructure or compromising user privacy.
+The world's best AI is trained on humanity's collective knowledge, behaviour, and experience.
+But it's built behind closed doors, by a handful of companies, for profit.
 
-### Two Model Options
-- **Open-Source AI Commons**: Access publicly available models trained by a global community. You only pay **network fees when model trainers use your ecosystem**.  
-- **Proprietary Enterprise Models**: Build and customize AI models tailored to your business needs. Users earn **stablecoin rewards** for contributing valuable data.
+What if we built it together instead?
 
-### Key Benefits for Developers
-- **Monetize AI Model Development**: Earn revenue via **network fees collected when model trainers use your ecosystem**.  
-- **Collaborate Globally**: Contribute to a growing open-source AI ecosystem while leveraging insights from your app ecosystem securely and privately.  
-- **Sustainable Growth**: Revenue potential increases as more applications join the InfiniteZero Network.
+InfiniteZero is open infrastructure for training AI as a public good — the way Wikipedia is a public good, the way the internet itself is a public good. Millions of devices, millions of people, contributing quietly to something that benefits everyone.
 
-### Technical Advantages
-- ✅ No massive data centers or storage costs  
-- ✅ No expensive GPU farms required  
-- ✅ Privacy-preserved through encrypted pattern sharing  
-- ✅ Decentralized compute across user devices  
-- ✅ Scalable, modular architecture for any sector
+No one company controls it. No one company profits from it. It just gets better, for everyone, together.
 
 ---
 
-## For Application Users 💻
+## How It Works
 
-### Data Generated, In Your Hands
+Your device — your phone, your laptop — contributes to training shared AI models as you go about your day. Your raw data never leaves your hands. Only anonymised, encrypted patterns are shared with the network.
 
-The InfiniteZero Network empowers you to contribute to AI training through everyday app use, helping improve AI models **without compromising your privacy**.
+```
+Your device learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
+```
 
-- **Complete Privacy**: AI training happens **on YOUR local compute**, so your sensitive data stays private.
-- **Better Services**: Enjoy enhanced features in your favorite apps, such as personalized recommendations and smarter suggestions — all without privacy trade-offs.
-- **Earn from Proprietary Models**: When you contribute to proprietary enterprise AI models, you receive **USDC stablecoin rewards**. Training open-source models incurs only a small network fee.
-
----
-
-## How It Works 💡
-
-### For Applications' Users:
-1. **Data Stays Local**: AI models are trained **on your local compute**, keeping your data secure.
-2. **Encrypted Updates Only**: Only **encrypted patterns** are shared to improve AI models, ensuring privacy.
-3. **Better App Features**: Your data helps improve AI-driven services, enhancing your experience in the apps you use every day.
-4. **Earn for Proprietary Models**: Earn **USDC** rewards when you contribute to proprietary models.
-
-### For Developers:
-1. **Leverage Your Data Ecosystem**: Develop open-source AI models using data generated by your users, which will continuously improve your app's **functionality** and **user experience**.
-2. **Privacy-Preserving AI**: Train AI models securely, preserving user data privacy.
-3. **Improve App Features**: Continuously enhance your app with user-contributed data to build better, more personalized AI features.
-4. **Seamless Integration**: Add AI capabilities to your app easily using the InfiniteZero SDK.
+The result is AI infrastructure that grows smarter the more people use it — like a library that gets better every time someone reads from it.
 
 ---
 
-## Real-World Use Cases 🌱
+## What Becomes Possible
 
-### Open-Platform Fitness Wearable Ecosystem
+When AI is trained collectively, in the open, it stops being a product and starts being infrastructure.
 
-Open-platform fitness wearable ecosystems (e.g., ReflexDAO) can use the InfiniteZero Network to train **open-source AI models** directly on-local compute using user-consented biometric signals such as sleep patterns, movement, heart rate variability, and recovery metrics — without raw data ever leaving the device.
+- A health model trained across millions of people worldwide, not just those who can pay for premium care
+- An agricultural AI that learns from farmers across every climate and continent
+- Education tools that improve from the experience of students everywhere, not just in well-funded schools
 
-The network aggregates encrypted model updates to improve shared, open-source AI models that deliver actionable, educational insights for daily health optimization, recovery, and long-term wellness. **Training these open models is funded solely through an ETH-denominated network fee**, a portion of which is routed directly to the application owner, incentivizing open experimentation and increasing the overall utility of the ecosystem.
-
-For **proprietary or premium models**, users can explicitly opt in to have their data used to **fine-tune specific models** under clearly defined terms. In these cases, **data owners are compensated in USDT stablecoins** for contributing to model training, while applications continue to benefit from network participation and fee sharing. This approach preserves privacy and user control while enabling high-quality, model-specific improvements on top of the shared infrastructure.
-
-*InfiniteZero uses lightweight, edge-optimized models, enabling training and inference on basic CPUs — including older laptops, mid-range smartphones, and Raspberry Pi–class devices. No large-scale GPU infrastructure or high-performance centralized hardware required.*
+This is what AI looks like when it's built *for* humanity rather than *about* it.
 
 ---
 
-## The Power of InfiniteZero Network ⚡
+## For Developers
 
-The InfiniteZero Network runs seamlessly in the background, enabling applications and their users to participate in the decentralized training of AI models. Built with Ethereum ecosystems in mind but chain-agnostic, InfiniteZero utilizes **Proof of Stake** to ensure trust, transparency, and resilience. This architecture promotes privacy, removes single points of failure, and supports a distributed AI infrastructure across various sectors like agriculture, healthcare, finance, smart cities, and education.
+InfiniteZero gives you access to continuously improving, community-trained AI models — without building or paying for the infrastructure yourself.
 
-### Key Features:
-- **Local Compute**: AI models are trained **on user devices (e.g., local compute)**, minimizing latency and reducing reliance on centralized infrastructure.
-- **Privacy by Design**: Data stays **on-device**, with only encrypted patterns shared, ensuring user privacy.
-- **Scalable AI Training**: Leverages lightweight AI models and local compute, making AI training scalable and privacy-preserving.
-- **Sovereign Applications**: Build secure, decentralized AI-powered applications while benefiting from the data ecosystem to enhance utility.
+**Open-Source AI Commons**
+Build on top of shared models trained by a global network of devices. Pay only a small network fee. Every app that builds on the commons also contributes back to it.
 
----
+**Proprietary Enterprise Models**
+Need something tailored? Build and fine-tune custom models on top of the commons, with users contributing under clear, consensual terms.
 
-## Why Choose InfiniteZero? 🤖
+| Traditional AI development | Building on InfiniteZero |
+|---|---|
+| Build your own data pipeline | Tap into a growing global ecosystem |
+| Store and secure raw user data | Training stays on user devices |
+| Your AI improves your product only | Your work improves the commons too |
 
-### The InfiniteZero Solution:
-✅ **Data stays local**: Only encrypted updates are shared  
-✅ **Local compute**: AI is trained using **user devices (e.g., laptops, desktops)**, removing the need for centralized infrastructure  
-✅ **Leverage Data Ecosystems**: Develop open-source models that improve app functionality based on the data generated by users  
-✅ **Open-Source & Accessible**: Access better, continuously improving AI models, democratizing AI innovation for all
-
-### The Problem with Traditional AI:
-❌ Centralized data centers with massive storage costs  
-❌ Expensive GPU farms for training  
-❌ Privacy risks from data aggregation  
-❌ Limited to companies who can afford infrastructure
+[Documentation](https://docs.infinitezero.network) · [API Reference](https://api.infinitezero.network) · [SDK](https://infinitezero.network/how-it-works)
 
 ---
 
-## Inclusive AI Economies 🤝
+## For Users
 
-The InfiniteZero Network decentralizes three core societal domains to create a **0-to-1 inclusive AI economy**:
+When you use an app built on InfiniteZero, your everyday activity — movement, choices, patterns — quietly helps train AI that belongs to everyone.
 
-- **Money**: Open-source AI commons training incurs only low-cost network fees.
-- **Information**: Data stays at the edge, ensuring privacy-preserving, encrypted AI updates.
-- **Compute Power**: AI training runs locally on user local compute, reducing reliance on centralized infrastructure.
+Your data never leaves your device. You're not a product. You're a contributor to something shared.
 
-This approach ensures that **AI training happens naturally** during daily activities, maintaining privacy, compliance, and scalability without bottlenecks.
+Think of it less like using a service, and more like leaving a book better than you found it.
 
 ---
 
-## Infrastructure and Economic Model 🛠️
+## Built on Ethereum
 
-The InfiniteZero Network is secured through **Proof of Stake**, with validators staking a utility-focused native token to maintain network integrity. Economic activity benefits both users and developers:
+InfiniteZero runs on Ethereum — open, decentralised, with no central authority.
+The network is secured by validators. The protocol is governed by the community.
+The models it trains belong to the commons.
 
-- **Applications' Users**: Contribute to AI training while keeping data local; earn rewards for proprietary model contributions.
-- **Application Developers**: Build open applications without needing to integrate AI or blockchain directly. They monetize via **network fees** charged to AI developers using InfiniteZero Network’s infrastructure.
-
----
-
-## Progress and Recognition 🏆
-
-- **Recently, Edge City 002 Developer Grant** – $40,000 total via SHIFT Grants, supported directly by **Vitalik Buterin & Co.:** https://www.edgecity.live/
-- **Cosmos Institute Award** –  $5,000 for early development (Texas & Oxford), supported and advocated by philanthropist Brendan McCord: https://x.com/cosmos_inst, https://x.com/mbrendan1
-- **Featured by the Decentralized Research Center (DRC)**, an organization recently funded by the **Ethereum Foundation:** https://www.linkedin.com/posts/thedrcenter_techquitable-activity-7296138354109173760-II_B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg
-- **Selected for the Summit on Responsible Decentralized Intelligence (RDI) at UC Berkeley**; highlighted by **Oxford University Computer Science:** https://www.linkedin.com/posts/compscioxford_compscioxford-oxfordai-activity-7229806029096538113-Xxu8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJITk4BLNlO2TV6q0bjB1f0Dyh9GBoPtPg
-- **Academic Recognition** – Early paper marked with distinction by an MIT-graduated Oxford professor. Founded within the **University of Oxford Computer Science Department**, Division of Human-Centered Computing, led by **Sir Nigel Shadbolt** (Ethical AI) and **Emeritus Faculty Sir Tim Berners-Lee** (Inventor of the World Wide Web). The division specializes in **decentralized web-of-data architectures:** https://www.cs.ox.ac.uk/research/HCC/people.html
+[Read the White Paper →](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
 ---
 
-## Foundation & Governance 🤝
+## Recognition
 
-The **InfiniteZero Foundation** sustains the InfiniteZero Network as an **ownerless, validator-secured network**. There is no central authority; the ecosystem is resilient, self-sustaining, and governed collectively by the community, ensuring long-term stability and fairness.
+**$40,000 Edge City Developer Grant** — supported by Vitalik Buterin and co. via SHIFT Grants
 
-- **Community Governed**: Contributors collectively govern the protocol and its evolution.
-- **Open Protocol**: The AI you help train belongs to the commons. Anyone can build on the network, integrate the models, and benefit.
+**$5,000 Cosmos Institute Award** — early development, supported by philanthropist Brendan McCord
 
----
+**Featured by the Decentralized Research Center (DRC)** — recently funded by the Ethereum Foundation
 
-## Explore the White Paper 📄
+**Selected for UC Berkeley's Summit on Responsible Decentralized Intelligence**
 
-[Full vision and technical details](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
-
----
-
-## Join the Movement 🌍
-
-We’re creating a future where AI benefits everyone. Whether you’re a developer, user, or community leader, there’s a place for you in the **InfiniteZero Network**.
-
-**Get involved**:  
-- **Developers**: [Documentation](https://docs.infinitezero.network) • [API Reference](https://api.infinitezero.network)
-- **Users**: [Download Apps](https://infinitezero.network/apps) • [How It Works](https://infinitezero.network/how-it-works)
-- **Validators**: [Learn More](https://infinitezero.network/validators)
-- **Contact**: [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
+**Founded at the University of Oxford Computer Science Department** — Division of Human-Centered Computing, led by Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web
 
 ---
 
-**Build AI that respects privacy. Create value for your users. Join InfiniteZero Network.**
+## Get Involved
 
-© 2025 InfiniteZero Foundation 🌱  
-*Decentralizing AI, enabling public goods, and fostering trustless innovation.*
+| I'm a... | Start here |
+|---|---|
+| Developer | [Docs](https://docs.infinitezero.network) · [API](https://api.infinitezero.network) |
+| User | [Download Apps](https://infinitezero.network/apps) |
+| Validator | [Learn More](https://infinitezero.network/validators) |
+| Just curious | [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) |
+
+---
+
+*InfiniteZero Foundation — open AI infrastructure, built by everyone, for everyone.*
+*Open protocol. Community governed. © 2025*
