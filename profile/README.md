@@ -58,7 +58,7 @@ When AI is trained collectively, in the open, it stops being a product and start
 
 ---
 
-## 🛠️ For Developers
+## 🔧 For Developers
 
 InfiniteZero gives you access to continuously improving, community-trained AI models — without building or paying for the infrastructure yourself.
 
@@ -102,13 +102,13 @@ The models it trains belong to the commons.
 
 ## 🏆 Recognition
 
-| | |
+| Award | Detail |
 |---|---|
-| **$40,000 Edge City Developer Grant** | Supported by Vitalik Buterin and co. via SHIFT Grants |
-| **$5,000 Cosmos Institute Award** | Early development, supported by philanthropist Brendan McCord |
-| **Decentralized Research Center (DRC)** | Featured by the DRC, recently funded by the Ethereum Foundation |
-| **UC Berkeley RDI Summit** | Selected for the Summit on Responsible Decentralized Intelligence |
-| **University of Oxford** | Founded in the Computer Science Department, Division of Human-Centered Computing, led by Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web |
+| 🏅 **Edge City Grant — $40k** | Supported by Vitalik Buterin and co. via SHIFT Grants |
+| 🏅 **Cosmos Institute — $5k** | Early development, supported by philanthropist Brendan McCord |
+| 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
+| 🎓 **UC Berkeley RDI Summit** | Selected for the Summit on Responsible Decentralized Intelligence |
+| 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing, led by Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web |
 
 ---
 
