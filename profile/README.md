@@ -60,24 +60,32 @@ When AI is trained collectively, in the open, it stops being a product and start
 
 ## 🔧 For Developers
 
-InfiniteZero gives you access to continuously improving, community-trained AI models — without building or paying for the infrastructure yourself.
+InfiniteZero gives developers access to a **global, community-trained AI commons** — without building or paying for the full infrastructure yourself. There are two main ways to engage:
 
-**Open-Source AI Commons**
+### 1️⃣ Model Trainers
+Contribute to improving AI models that power the commons.
 
-Build on top of shared models trained by a global network of devices. Pay only a small network fee. Every app that builds on the commons also contributes back to it.
+- Train AI locally on your device or networked nodes.  
+- Share only anonymised, encrypted patterns.  
+- Pay a **small network fee**, but gain access to the **collective intelligence of millions of devices**.  
+- Every improvement helps the AI grow smarter for everyone, globally.
 
-**Proprietary Enterprise Models**
+### 2️⃣ Application Developers
+Build apps that connect your users to the InfiniteZero AI infrastructure.
 
-Need something tailored? Build and fine-tune custom models on top of the commons, with users contributing under clear, consensual terms.
+- Leverage shared AI models for **practical utilities** — e.g., fitness wearables, solar panels, or health monitoring.  
+- Users benefit automatically from smarter AI **without seeing or managing the network**.  
+- Contributions from your app’s users feed back into the commons, improving the models everyone relies on.  
+
+### ⚡ Benefits over Traditional AI Development
 
 | Traditional AI development | Building on InfiniteZero |
 |---|---|
-| Build your own data pipeline | Tap into a growing global ecosystem |
-| Store and secure raw user data | Training stays on user devices |
-| Your AI improves your product only | Your work improves the commons too |
+| Build and maintain your own data pipeline | Tap into a growing, global ecosystem |
+| Store and secure raw user data | Training stays on user devices; privacy preserved |
+| Your AI improves your product only | Your work improves the commons and benefits all applications |
 
 [Documentation](https://docs.infinitezero.network) · [API Reference](https://api.infinitezero.network) · [SDK](https://infinitezero.network/how-it-works)
-
 ---
 
 ## 💻 For Users
