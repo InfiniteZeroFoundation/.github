@@ -134,6 +134,6 @@ The models it trains belong to the commons.
 <div align="center">
 
 *InfiniteZero Foundation — open AI infrastructure, built by everyone, for everyone.*<br>
-*Open protocol · Community governed · © 2025*
+*Open protocol · Community governed · © 2026*
 
 </div>
