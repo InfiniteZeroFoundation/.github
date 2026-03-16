@@ -112,6 +112,7 @@ The models it trains belong to the commons.
 
 | Award | Detail |
 |---|---|
+| 🏅 **Artizen Fund Round + Matching — $45k+** | Raised through Artizen with additional matched funding, including support from the FTC Fund for Public Goods |
 | 🌐 **Foresight Institute Node** | Selected to join Foresight’s AI Node, access to co-working, events, and collaboration with other AI innovators |
 | 🏅 **Edge City Grant — $40k** | Supported by Vitalik Buterin and co. via SHIFT Grants |
 | 🏅 **Cosmos Institute — $5k** | Early development, supported by philanthropist Brendan McCord |
