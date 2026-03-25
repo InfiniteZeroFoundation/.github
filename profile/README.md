@@ -113,7 +113,7 @@ The models it trains belong to the commons.
 | Award | Detail |
 |---|---|
 | 🏅 **Artizen Fund Round + Matching — $70k** | Raised through Artizen with additional matched funding, including support from the Funding the Commons (FTC) Fund for Public Goods |
-| 🌐 **Foresight Institute Node - Berlin ** | Selected to join Foresight’s AI Node, access to co-working, events, and collaboration with other AI innovators |
+| 🌐 **Foresight Institute Node, Berlin ** | Selected to join Foresight’s AI Node, access to co-working, events, and collaboration with other AI innovators |
 | 🏅 **Edge City Grant — $40k** | Supported by Vitalik Buterin and co. via SHIFT Grants |
 | 🏅 **Cosmos Institute — $5k** | Early development, supported by philanthropist Brendan McCord |
 | 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
