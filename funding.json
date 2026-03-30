@@ -13,7 +13,8 @@
       "name": "Decentralized Intelligence Network (DIN)",
       "description": "Open infrastructure for training AI as a public good. Millions of devices contribute to shared AI models using federated learning — raw data never leaves the user's device.",
       "webpageUrl": {
-        "url": "https://infinitezero.foundation"
+        "url": "https://infinitezero.foundation",
+        "description": "InfiniteZero Foundation — open AI infrastructure built by everyone, for everyone. Trustless, privacy-first, deployed on Ethereum."
       },
       "repositoryUrl": {
         "url": "https://github.com/InfiniteZeroFoundation"
