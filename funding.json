@@ -1,0 +1,66 @@
+{
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "maintainer",
+    "name": "InfiniteZero Foundation",
+    "email": "abrahamnash@protonmail.com",
+    "website": "https://infinitezero.foundation",
+    "description": "Building a trustless, privacy-first AI commons — data stays local while applications train AI at scale, deployed on Ethereum for real-world impact."
+  },
+  "projects": [
+    {
+      "name": "Decentralized Intelligence Network (DIN)",
+      "description": "Open infrastructure for training AI as a public good. Millions of devices contribute to shared AI models using federated learning — raw data never leaves the user's device.",
+      "webpageUrl": {
+        "url": "https://infinitezero.foundation"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/InfiniteZeroFoundation"
+      },
+      "licenses": ["spdx:MIT"],
+      "tags": ["ai", "federated-learning", "ethereum", "privacy", "open-source", "decentralized", "public-good"]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "infinitezero-email",
+        "type": "other",
+        "address": "abrahamnash@protonmail.com",
+        "description": "Contact for grants and institutional funding"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "sustainer",
+        "status": "active",
+        "name": "Protocol Sustainer",
+        "description": "Supports ongoing development of the DIN protocol, smart contracts, and federated learning infrastructure.",
+        "amount": 500,
+        "currency": "USD",
+        "frequency": "monthly",
+        "channels": ["infinitezero-email"]
+      }
+    ],
+    "history": [
+      {
+        "year": 2024,
+        "income": 45000,
+        "expenses": 40000,
+        "description": "Edge City SHIFT Grant ($40k via Vitalik Buterin), Cosmos Institute grant ($5k)"
+      }
+    ]
+  }
+}
+```
+
+---
+
+**Step 6** — Scroll down and click the green **"Commit changes"** button. Just leave all the default options as they are and confirm.
+
+---
+
+**Step 7** — You're done! Your file is now live at this URL, which is what you paste into FLOSS/Fund:
+```
+https://raw.githubusercontent.com/InfiniteZeroFoundation/.github/main/funding.json
