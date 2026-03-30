@@ -12,7 +12,7 @@
         }
     },
     "projects": [{
-        "guid": "decentralized-intelligence-network",
+        "guid": "din-protocol",
         "name": "Decentralized Intelligence Network (DIN)",
         "description": "Open infrastructure for training AI as a public good. Millions of devices contribute to shared AI models using federated learning — raw data never leaves the user's device. No one company controls it. No one company profits from it. It just gets better, for everyone, together.",
         "webpageUrl": {
