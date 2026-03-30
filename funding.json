@@ -53,14 +53,3 @@
     ]
   }
 }
-```
-
----
-
-**Step 6** — Scroll down and click the green **"Commit changes"** button. Just leave all the default options as they are and confirm.
-
----
-
-**Step 7** — You're done! Your file is now live at this URL, which is what you paste into FLOSS/Fund:
-```
-https://raw.githubusercontent.com/InfiniteZeroFoundation/.github/main/funding.json
