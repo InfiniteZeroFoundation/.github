@@ -121,6 +121,12 @@ The models it trains belong to the commons.
 | 🏅 **Cosmos Institute — $5k awarded** | Early development grant, supported by philanthropist Brendan McCord |
 ---
 
+## 🌱 Support Us
+
+We're raising funds to scale the network on [Giveth]([YOUR_GIVETH_LINK](https://giveth.io/project/infinitezero-netork)) — a zero-fee crypto donation platform. Every contribution helps us onboard more validators, harden the protocol, and build AI infrastructure that belongs to everyone.
+
+[Donate on Giveth →]([YOUR_GIVETH_LINK](https://giveth.io/project/infinitezero-netork))
+
 ## 🤝 Get Involved
 
 | I'm a... | Start here |
