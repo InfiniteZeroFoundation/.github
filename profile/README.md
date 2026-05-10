@@ -129,7 +129,7 @@ We're raising funds to scale the network on [Giveth](https://giveth.io/project/i
 
 Every dollar you put in doesn't just fund the work — it helps prove that AI infrastructure built for everyone, by everyone, is possible. You're not a donor. You're a founding contributor to something that belongs to no one and benefits everyone.
 
-[Donate on Giveth →](https://giveth.io/project/infinitezero-network)
+Support us → [giveth.io/project/infinitezero-network](https://giveth.io/project/infinitezero-network)
 
 ---
 
@@ -138,8 +138,6 @@ Every dollar you put in doesn't just fund the work — it helps prove that AI in
 Run a node → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)
 
 Read the docs → [docs.infinitezero.network](https://docs.infinitezero.network)
-
-Support us → [giveth.io/project/infinitezero-network](https://giveth.io/project/infinitezero-network)
 
 Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
