@@ -131,9 +131,8 @@ We're raising funds to scale the network on [Giveth](https://giveth.io/project/i
 
 | I'm a... | Start here |
 |---|---|
-| Developer | [Docs](https://docs.infinitezero.network) · [API](https://api.infinitezero.network) |
-| User | [Download Apps](https://infinitezero.network/apps) |
-| Validator | [Learn More](https://infinitezero.network/validators) |
+| Contributor | [Docs](https://github.com/InfiniteZeroFoundation/DevNet) |
+| Validator | [Run a Node](https://github.com/InfiniteZeroFoundation/DevNet) |
 | Just curious | [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) |
 
 ---
