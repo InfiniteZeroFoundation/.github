@@ -125,7 +125,9 @@ The models it trains belong to the commons.
 
 ## 🌱 Support Us
 
-We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-network) — a zero-fee crypto donation platform. Every contribution helps us onboard more validators, harden the protocol, and build AI infrastructure that belongs to everyone.
+We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-network) — a zero-fee crypto donation platform. Donations are regularly matched, meaning a small contribution goes a long way.
+
+Every dollar you put in doesn't just fund the work — it helps prove that AI infrastructure built for everyone, by everyone, is possible. You're not a donor. You're a founding contributor to something that belongs to no one and benefits everyone.
 
 [Donate on Giveth →](https://giveth.io/project/infinitezero-network)
 
