@@ -65,16 +65,16 @@ InfiniteZero gives you access to a **living, global AI commons** — where every
 ### 1️⃣ Model Trainers
 You bring the brains. InfiniteZero brings the network.
 
-- Deploy your AI models to the protocol.  
-- Users’ devices train them locally on real-world data.  
-- Receive anonymized, encrypted updates that make your model smarter — without touching raw user data.  
+- Deploy your AI models to the protocol.
+- Users' devices train them locally on real-world data.
+- Receive anonymized, encrypted updates that make your model smarter — without touching raw user data.
 - Your work improves the AI for everyone, everywhere.
 
 ### 2️⃣ Application Developers
 You bring the utility. The network brings the scale.
 
-- Build apps that connect your users to the AI commons.  
-- Users benefit automatically — smarter recommendations, better predictions, personalized insights.  
+- Build apps that connect your users to the AI commons.
+- Users benefit automatically — smarter recommendations, better predictions, personalized insights.
 - Every interaction feeds back to the shared models, so your app **grows smarter with the global network**, without users ever seeing the protocol.
 
 ### ⚡ Why This Matters
@@ -86,6 +86,7 @@ You bring the utility. The network brings the scale.
 | You manage raw user data | Data stays on devices; privacy is guaranteed |
 
 [Documentation](https://docs.infinitezero.network) · [API Reference](https://api.infinitezero.network) · [SDK](https://infinitezero.network/how-it-works)
+
 ---
 
 ## 💻 For Users
@@ -119,21 +120,26 @@ The models it trains belong to the commons.
 | 🎓 **UC Berkeley RDI Summit** | Selected for the Summit on Responsible Decentralized Intelligence |
 | 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
 | 🏅 **Cosmos Institute — $5k awarded** | Early development grant, supported by philanthropist Brendan McCord |
+
 ---
 
 ## 🌱 Support Us
 
-We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-netork) — a zero-fee crypto donation platform. Every contribution helps us onboard more validators, harden the protocol, and build AI infrastructure that belongs to everyone.
+We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-network) — a zero-fee crypto donation platform. Every contribution helps us onboard more validators, harden the protocol, and build AI infrastructure that belongs to everyone.
 
-[Donate on Giveth →](https://giveth.io/project/infinitezero-netork)
+[Donate on Giveth →](https://giveth.io/project/infinitezero-network)
+
+---
 
 ## 🤝 Get Involved
 
-| I'm a... | Start here |
-|---|---|
-| Contributor | [Docs](https://github.com/InfiniteZeroFoundation/DevNet) |
-| Validator | [Run a Node](https://github.com/InfiniteZeroFoundation/DevNet) |
-| Just curious | [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com) |
+Run a node → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)
+
+Read the docs → [docs.infinitezero.network](https://docs.infinitezero.network)
+
+Support us → [giveth.io/project/infinitezero-network](https://giveth.io/project/infinitezero-network)
+
+Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
 ---
 
