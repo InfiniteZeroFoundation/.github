@@ -85,7 +85,7 @@ You bring the utility. The network brings the scale.
 | AI improves your product only | AI improves every app, every user, every model |
 | You manage raw user data | Data stays on devices; privacy is guaranteed |
 
-[Documentation](https://docs.infinitezero.network) · [API Reference](https://api.infinitezero.network) · [SDK](https://infinitezero.network/how-it-works)
+[Documentation](https://github.com/InfiniteZeroFoundation) · [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
 
 ---
 
