@@ -113,7 +113,7 @@ The models it trains belong to the commons.
 
 | Award | Detail |
 |---|---|
-| 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing, founded by Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web |
+| 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing, led by Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web |
 | 🏅 **Edge City Grant — $40k awarded** | Supported by Vitalik Buterin and co. via SHIFT Grants |
 | 🏅 **Artizen Fund — $85k raised** | Community-funded via Artizen Season 6, with matched funding from the Funding the Commons (FTC) Fund for Public Goods |
 | 🌐 **Foresight Institute AI Node — Berlin** | Selected to join Foresight's AI Node; co-working, events, and collaboration with leading AI and longtermist innovators |
