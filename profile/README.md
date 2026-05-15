@@ -17,8 +17,6 @@
 >
 > **InfiniteZero is building the commons that changes that.**
 
-**A global network where anyone can help train AI — without giving their data away.**
-
 ---
 
 ## 💡 The Idea
