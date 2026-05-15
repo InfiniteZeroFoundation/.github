@@ -17,6 +17,8 @@
 >
 > **InfiniteZero is building the commons that changes that.**
 
+**A global network where anyone can help train AI — without giving their data away.**
+
 ---
 
 ## 💡 The Idea
@@ -60,7 +62,7 @@ When AI is trained collectively, in the open, it stops being a product and start
 
 ## 🔧 For Developers
 
-InfiniteZero gives you access to a **living, global AI commons** — where every model you deploy improves itself through millions of users, quietly and securely.
+Apps are built the same way they always have been — but with InfiniteZero plugged in as a backend layer. Users opt in to contribute encrypted learning patterns. Data stays local. The app earns a share of network fees. The models improve for everyone.
 
 ### 1️⃣ Model Trainers
 You bring the brains. InfiniteZero brings the network.
@@ -76,6 +78,7 @@ You bring the utility. The network brings the scale.
 - Build apps that connect your users to the AI commons.
 - Users benefit automatically — smarter recommendations, better predictions, personalized insights.
 - Every interaction feeds back to the shared models, so your app **grows smarter with the global network**, without users ever seeing the protocol.
+- Your app earns a share of network fees — generating revenue while your users' data stays entirely in their hands.
 
 ### ⚡ Why This Matters
 
@@ -84,6 +87,7 @@ You bring the utility. The network brings the scale.
 | You build your own dataset | The network provides millions of real-world contributions |
 | AI improves your product only | AI improves every app, every user, every model |
 | You manage raw user data | Data stays on devices; privacy is guaranteed |
+| Platform captures all value | App earns network fees; value returns to contributors |
 
 [Documentation](https://github.com/InfiniteZeroFoundation) · [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
 
@@ -106,6 +110,12 @@ The network is secured by validators. The protocol is governed by the community.
 The models it trains belong to the commons.
 
 [Read the White Paper →](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+
+---
+
+## 👥 The Team
+
+A small team of PhD researchers spanning Oxford, South Korea, and France — rooted in Oxford's Human-Centered Computing division, under Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web. Three years of quiet building. Now it's live.
 
 ---
 
