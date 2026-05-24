@@ -145,7 +145,7 @@ Support us → [giveth.io/project/infinitezero-network](https://giveth.io/projec
 
 Run a node → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)
 
-Read the docs → [docs.infinitezero.network](https://docs.infinitezero.network)
+Read the docs → [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)
 
 Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
