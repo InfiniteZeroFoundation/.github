@@ -113,7 +113,7 @@ The models it trains belong to the commons.
 
 ## 👥 The Team
 
-A small team of PhD researchers spanning Oxford, South Korea, and France — rooted in Oxford's Human-Centered Computing division, under Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web. Three years of quiet building. Now it's live.
+A small team of PhD researchers spanning Oxford, South Korea, and France — rooted in Oxford's Human-Centered Computing division, home to Sir Tim Berners-Lee and Sir Nigel Shadbolt. Three years of quiet building. Now it's live.
 
 ---
 
@@ -121,7 +121,7 @@ A small team of PhD researchers spanning Oxford, South Korea, and France — roo
 
 | Award | Detail |
 |---|---|
-| 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing, led by Sir Nigel Shadbolt and Emeritus Faculty Sir Tim Berners-Lee, inventor of the World Wide Web |
+| 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing — home to Sir Tim Berners-Lee, inventor of the World Wide Web, and Sir Nigel Shadbolt |
 | 🏅 **Edge City Grant — $40k awarded** | Supported by Vitalik Buterin and co. via SHIFT Grants |
 | 🏅 **Artizen Fund — $100k raised** | Community-funded via Artizen Season 6, with matched funding from the Funding the Commons (FTC) Fund for Public Goods |
 | 🌐 **Foresight Institute AI Node — Berlin** | Selected to join Foresight's AI Node; co-working, events, and collaboration with leading AI and longtermist innovators |
