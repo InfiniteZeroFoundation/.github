@@ -125,7 +125,7 @@ A small team of PhD researchers spanning Oxford, South Korea, and France — roo
 | 🏅 **Edge City Grant — $40k awarded** | Supported by Vitalik Buterin and co. via SHIFT Grants |
 | 🏅 **Artizen Fund — $100k raised** | Community-funded via Artizen Season 6, with matched funding from the Funding the Commons (FTC) Fund for Public Goods and Spark DeSci Funding. |
 | 🌐 **Foresight Institute AI Node — Berlin** | Selected to join Foresight's AI Node; co-working, events, and collaboration with leading AI and longtermist innovators |
-| 🎓 **UC Berkeley RDI Summit** | Selected for the Summit on Responsible Decentralized Intelligence |
+| 🎓 **UC Berkeley RDI Summit** | Selected for Speaker Presentation at the Summit on Responsible Decentralized Intelligence |
 | 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
 | 🏅 **Cosmos Institute — $5k awarded** | Early development grant, supported by philanthropist Brendan McCord |
 
