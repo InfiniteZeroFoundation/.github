@@ -123,7 +123,7 @@ A small team of PhD researchers spanning Oxford, South Korea, and France — roo
 |---|---|
 | 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing — home to Sir Nigel Shadbolt and Emeritus Sir Tim Berners-Lee, inventor of the World Wide Web |
 | 🏅 **Edge City Grant 002** | Supported by Vitalik Buterin and co. via SHIFT Grants |
-| 🏅 **Artizen Fund** | Community-funded via Artizen Season 6, with support from: Spark DeSci Fund, Open Infrastructure Fund for Human Coordination, Bright Codes Fund for Earth Hackers, Ocean Fund for Living Seas, Emergent Creativity Fund for Conscious Collaboration, Orion Fund for Living Intelligence, Learning Layer Fund for AI Frontiers, HyperDeSci Fund for Open Science, Paradigm Fund for Frontier Tech, Terminus Fund for Network States, ODIN Fund for Decentralized Innovation, Ipê Fund for Internet-Native Institutions |
+| 🏅 **Artizen Fund** | Spark DeSci Fund, Open Infrastructure Fund for Human Coordination, Bright Codes Fund for Earth Hackers, Ocean Fund for Living Seas, Emergent Creativity Fund for Conscious Collaboration, Orion Fund for Living Intelligence, Learning Layer Fund for AI Frontiers, HyperDeSci Fund for Open Science, Paradigm Fund for Frontier Tech, Terminus Fund for Network States, ODIN Fund for Decentralized Innovation, Ipê Fund for Internet-Native Institutions |
 | 🎓 **UC Berkeley RDI Summit** | Selected for Speaker Presentation at the Summit on Responsible Decentralized Intelligence |
 | 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
 | 🏅 **Cosmos Institute — Grantee** | Early development grant, supported by Brendan McCord |
