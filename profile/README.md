@@ -47,7 +47,7 @@ As you go about your routine, your device quietly contributes encrypted, anonymi
 Your device learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
 ```
 
-The more people use apps that plug in to InfiniteZero, the better the AI gets — for everyone. You don't have to do anything. You just keep living your life, and the network grows.
+The more people use apps that plug in to InfiniteZero, the better the AI gets — for everyone. You don't have to do anything. You just keep living your life, and the network grows. This is what AI for an open-decentralized internet looks like.
 
 Like a library that gets better every time someone reads from it, but no one has to think about how the shelves are organised.
 
