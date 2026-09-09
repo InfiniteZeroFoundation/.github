@@ -29,8 +29,8 @@ Today, this requires trusted third parties, complex agreements, and centralised 
 
 So the data stays unused. The AI that could improve our health, farming, and education remains underfed.
 
-**InfiniteZero changes that.
-**
+**InfiniteZero changes that.**
+
 This is a growing network we build together — open infrastructure that unlocks data at the edge. No intermediaries. No gatekeepers. AI trainers overcome access barriers. Applications deliver better products. And the AI is open-sourced by default — because the real value isn't the model or the data. It's the utility: applications that actually improve lives.
 
 **What if we built it together instead?**
