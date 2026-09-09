@@ -21,17 +21,17 @@
 
 ## 💡 The Idea
 
-The lifeblood of AI is data. Without it, the most advanced models are empty machines — an electric car with no electricity.
+The lifeblood of AI is data. Without it, the most sophisticated engines ever built are useless — an electric car with no charge.
 
-Most of the world's valuable data sits trapped in the periphery: phones, laptops, medical devices, farm sensors. There is no permissionless infrastructure — and no incentive — to train on that data where it lives, or to prepare it for AI training.
+Most of the world's useful data lies stranded in the periphery: phones, sensors, medical devices, farm equipment. No infrastructure exists to train on that data where it lives. No incentive exists to build it. So the fuel sits unused.
 
-Today, this requires trusted third parties, complex agreements, and centralised platforms that extract value without returning it. Even federated learning relies on a central coordinator — a gatekeeper that decides what participates, when, and how.
+Today, accessing this data means trusting intermediaries, signing complex agreements, and handing value to platforms that return little. Even federated learning — often celebrated as a solution — still depends on a central coordinator. A gatekeeper. Someone who decides what participates, when, and how. This is not a philosophical problem. It's an engineering bottleneck.
 
-So the data stays unused. The AI that could improve our health, farming, and education remains underfed.
+And it means the AI that could improve health, farming, and education remains starved of the one thing it needs most.
 
-**InfiniteZero changes that.**
+**InfiniteZero removes the bottleneck.**
 
-This is a growing network we build together — open infrastructure that unlocks data at the edge. No intermediaries. No gatekeepers. AI trainers overcome access barriers. Applications deliver better products. And the AI is open-sourced by default — because the real value isn't the model or the data. It's the utility: applications that actually improve lives.
+We grow a network together — infrastructure that unlocks data at the edge. No intermediaries. No gatekeepers. Trainers finally access the data they need. Applications finally deliver the value they promise. The AI is open-sourced by default — not because we choose to, but because that's what works. The value isn't the model or the data. It's the utility: applications that actually improve lives.
 
 **What if we built it together instead?**
 
