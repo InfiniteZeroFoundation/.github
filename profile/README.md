@@ -21,8 +21,17 @@
 
 ## 💡 The Idea
 
-The world's best AI is trained on humanity's collective knowledge, behaviour, and experience.
-But it's built behind closed doors, by a handful of companies, for profit.
+The lifeblood of AI is data. Without it, the most advanced models are empty machines — an electric car with no electricity.
+
+Most of the world's valuable data sits trapped in the periphery: phones, laptops, medical devices, farm sensors. There is no permissionless infrastructure — and no incentive — to **train** on that data where it lives, or to **prepare** it for AI training.
+
+Today, this requires trusted third parties, complex agreements, and centralised platforms that extract value without returning it. Even federated learning relies on a central coordinator — a gatekeeper that decides what participates, when, and how.
+
+So the data stays unused. The AI that could improve our health, farming, and education remains underfed.
+
+InfiniteZero changes that.
+
+This is a growing network we build together — open infrastructure that unlocks data at the edge. No intermediaries. No gatekeepers. AI trainers overcome access barriers. Applications deliver better products. And the AI is open-sourced by default — because the real value isn't the model or the data. It's the utility: applications that actually improve lives.
 
 **What if we built it together instead?**
 
