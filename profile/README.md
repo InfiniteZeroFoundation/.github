@@ -11,9 +11,9 @@
 
 <br>
 
-> The internet gave everyone a voice.<br>
-> Open-source gave everyone a tool.<br>
-> AI is still waiting.
+> The internet gave everyone a voice.  
+> Open-source gave everyone a tool.  
+> AI is still waiting.  
 >
 > **InfiniteZero is building the commons that changes that.**
 
@@ -39,7 +39,7 @@ We grow a network together — infrastructure that unlocks data at the edge. No 
 
 You keep using the apps you already use — messaging, health tracking, farming tools, education platforms. Nothing changes about your day.
 
-Behind the scenes, those apps are built differently. Instead of sending your data to a central server, they keep it stored locally on your device. InfiniteZero plugs into that local data — enabling applications to securely contribute to collective AI training without building expensive infrastructure or moving massive datasets around.
+Behind the scenes, those apps plug in to InfiniteZero. Instead of sending your data to a central server, they keep it stored locally on your device. InfiniteZero plugs into that local data — enabling applications to securely contribute to collective AI training without building expensive infrastructure or moving massive datasets around.
 
 As you go about your routine, your device quietly contributes encrypted, anonymised patterns to the network. Not your data. Not your behaviour. Just patterns that help shared AI models grow smarter for everyone.
 
