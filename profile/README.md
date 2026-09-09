@@ -47,6 +47,7 @@ As you go about your routine, your device quietly contributes encrypted, anonymi
 Your device learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
 ```
 
+
 The more people use apps that plug in to InfiniteZero, the better the AI gets — for everyone. You don't have to do anything. You just keep living your life, and the network grows. This is what AI for an open-decentralized internet looks like.
 
 Like a library that gets better every time someone reads from it, but no one has to think about how the shelves are organised.
@@ -58,10 +59,10 @@ Like a library that gets better every time someone reads from it, but no one has
 When AI is trained collectively, in the open, it stops being a product and starts being infrastructure.
 
 | Domain | What changes |
-|---|---|
-| 🏥 Health | A model trained across millions of people worldwide — not just those who can pay for premium care |
-| 🌱 Agriculture | AI that learns from farmers across every climate and continent |
-| 📚 Education | Tools that improve from the experience of students everywhere, not just in well-funded schools |
+|--------|--------------|
+| 🏥 **Health** | A model trained across millions of people worldwide — not just those who can pay for premium care |
+| 🌱 **Agriculture** | AI that learns from farmers across every climate and continent |
+| 📚 **Education** | Tools that improve from the experience of students everywhere, not just in well-funded schools |
 
 *This is what AI looks like when it's built* for *humanity rather than* about *it.*
 
@@ -72,7 +73,7 @@ When AI is trained collectively, in the open, it stops being a product and start
 Apps are built the same way they always have been — but with InfiniteZero plugged in as a backend layer. Users opt in to contribute encrypted learning patterns. Data stays local. The app earns a share of network fees. The models improve for everyone.
 
 ### 1️⃣ Model Trainers
-You bring the brains. InfiniteZero brings the network.
+*You bring the brains. InfiniteZero brings the network.*
 
 - Deploy your AI models to the protocol.
 - Users' devices train them locally on real-world data.
@@ -80,7 +81,7 @@ You bring the brains. InfiniteZero brings the network.
 - Your work improves the AI for everyone, everywhere.
 
 ### 2️⃣ Application Developers
-You bring the utility. The network brings the scale.
+*You bring the utility. The network brings the scale.*
 
 - Build apps that connect your users to the AI commons.
 - Users benefit automatically — smarter recommendations, better predictions, personalized insights.
@@ -89,20 +90,20 @@ You bring the utility. The network brings the scale.
 
 ### ⚡ Why This Matters
 
-| Traditional AI | InfiniteZero |
-|---|---|
-| You build your own dataset | The network provides millions of real-world contributions |
-| AI improves your product only | AI improves every app, every user, every model |
-| You manage raw user data | Data stays on devices; privacy is guaranteed |
-| Platform captures all value | App earns network fees; value returns to contributors |
+| | Traditional AI | InfiniteZero |
+|---|---------------|--------------|
+| **Data** | You build your own dataset | The network provides millions of real-world contributions |
+| **Impact** | AI improves your product only | AI improves every app, every user, every model |
+| **Privacy** | You manage raw user data | Data stays on devices; privacy is guaranteed |
+| **Value** | Platform captures all value | App earns network fees; value returns to contributors |
 
-[Documentation](https://github.com/InfiniteZeroFoundation) · [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
+📘 [Documentation](https://github.com/InfiniteZeroFoundation) · 🔗 [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
 
 ---
 
 ## 💻 For Users
 
-When you use an app built on InfiniteZero, your everyday activity — movement, choices, patterns — quietly helps train AI that belongs to everyone.
+When you use an app that plugs in to InfiniteZero, your everyday activity — movement, choices, patterns — quietly helps train AI that belongs to everyone.
 
 Your data never leaves your device. You're not a product. You're a contributor to something shared.
 
@@ -112,11 +113,9 @@ Your data never leaves your device. You're not a product. You're a contributor t
 
 ## 🔷 Built on Ethereum
 
-InfiniteZero runs on Ethereum — open, decentralised, with no central authority.
-The network is secured by validators. The protocol is governed by the community.
-The models it trains belong to the commons.
+InfiniteZero runs on Ethereum — open, decentralised, with no central authority. The network is secured by validators. The protocol is governed by the community. The models it trains belong to the commons.
 
-[Read the White Paper →](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+📄 [Read the White Paper →](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
 ---
 
@@ -129,10 +128,10 @@ A small team of PhD researchers spanning Oxford, South Korea, and France — roo
 ## 🏆 Recognition
 
 | Award | Detail |
-|---|---|
+|-------|--------|
 | 🎓 **University of Oxford** | Founded in Computer Science, Division of Human-Centered Computing — home to Sir Nigel Shadbolt and Emeritus Sir Tim Berners-Lee, inventor of the World Wide Web |
 | 🏅 **Edge City Grant 002** | Supported by Vitalik Buterin and co. via SHIFT Grants |
-| 🏅 **Artizen Fund** | Spark DeSci Fund, Open Infrastructure Fund for Human Coordination, Bright Codes Fund for Earth Hackers, Ocean Fund for Living Seas, Emergent Creativity Fund for Conscious Collaboration, Orion Fund for Living Intelligence, Learning Layer Fund for AI Frontiers, HyperDeSci Fund for Open Science, Paradigm Fund for Frontier Tech, Terminus Fund for Network States, ODIN Fund for Decentralized Innovation, Ipê Fund for Internet-Native Institutions |
+| 🏅 **Artizen Fund** | Spark DeSci Fund · Open Infrastructure Fund · Bright Codes Fund · Ocean Fund · Emergent Creativity Fund · Orion Fund · Learning Layer Fund · HyperDeSci Fund · Paradigm Fund · Terminus Fund · ODIN Fund · Ipê Fund |
 | 🎓 **UC Berkeley RDI Summit** | Selected for Speaker Presentation at the Summit on Responsible Decentralized Intelligence |
 | 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
 | 🏅 **Cosmos Institute — Grantee** | Early development grant, supported by Brendan McCord |
@@ -143,25 +142,23 @@ A small team of PhD researchers spanning Oxford, South Korea, and France — roo
 
 We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-network) — a zero-fee crypto donation platform. Donations are regularly matched, meaning a small contribution goes a long way.
 
-Every dollar you put in doesn't just fund the work — it helps prove that AI infrastructure built for everyone, by everyone, is possible. You're not a donor. You're a founding contributor to something that belongs to no one and benefits everyone.
+Every dollar you contribute doesn't just fund the work — it helps prove that AI infrastructure built for everyone, by everyone, is possible. You're not a donor. You're a founding contributor to something that belongs to no one and benefits everyone.
 
-Support us → [giveth.io/project/infinitezero-network](https://giveth.io/project/infinitezero-network)
+➡️ [Support us on Giveth](https://giveth.io/project/infinitezero-network)
 
 ---
 
 ## 🤝 Get Involved
 
-Run a node → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)
-
-Read the docs → [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)
-
-Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
+🔹 Run a node → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)  
+🔹 Read the docs → [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)  
+🔹 Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
 ---
 
 <div align="center">
 
-*InfiniteZero Foundation — open AI infrastructure, built by everyone, for everyone.*<br>
+*InfiniteZero Foundation — open AI infrastructure, built by everyone, for everyone.*  
 *Open protocol · Community governed · © 2026*
 
 </div>
