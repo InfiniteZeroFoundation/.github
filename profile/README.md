@@ -23,7 +23,7 @@
 
 The lifeblood of AI is data. Without it, the most advanced models are empty machines — an electric car with no electricity.
 
-Most of the world's valuable data sits trapped in the periphery: phones, laptops, medical devices, farm sensors. There is no permissionless infrastructure — and no incentive — to **train** on that data where it lives, or to **prepare** it for AI training.
+Most of the world's valuable data sits trapped in the periphery: phones, laptops, medical devices, farm sensors. There is no permissionless infrastructure — and no incentive — to train on that data where it lives, or to prepare it for AI training.
 
 Today, this requires trusted third parties, complex agreements, and centralised platforms that extract value without returning it. Even federated learning relies on a central coordinator — a gatekeeper that decides what participates, when, and how.
 
