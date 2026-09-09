@@ -37,13 +37,19 @@ We grow a network together — infrastructure that unlocks data at the edge. No 
 
 ## ⚙️ How It Works
 
-Your device — your phone, your laptop — contributes to training shared AI models as you go about your day. Your raw data never leaves your hands. Only anonymised, encrypted patterns are shared with the network.
+You keep using the apps you already use — messaging, health tracking, farming tools, education platforms. Nothing changes about your day.
+
+Behind the scenes, those apps are built differently. Instead of sending your data to a central server, they keep it stored locally on your device. InfiniteZero plugs into that local data — enabling applications to securely contribute to collective AI training without building expensive infrastructure or moving massive datasets around.
+
+As you go about your routine, your device quietly contributes encrypted, anonymised patterns to the network. Not your data. Not your behaviour. Just patterns that help shared AI models grow smarter for everyone.
 
 ```
 Your device learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
 ```
 
-The result is AI infrastructure that grows smarter the more people use it — like a library that gets better every time someone reads from it.
+The more people use apps that plug in to InfiniteZero, the better the AI gets — for everyone. You don't have to do anything. You just keep living your life, and the network grows.
+
+Like a library that gets better every time someone reads from it, but no one has to think about how the shelves are organised.
 
 ---
 
