@@ -33,12 +33,6 @@ And it means the AI that could improve health, farming, and education remains st
 
 We grow a network together — infrastructure that unlocks data at the edge. No intermediaries. No gatekeepers. Trainers finally access the data they need. Applications finally deliver the value they promise. The AI is open-sourced by default — not because we choose to, but because that's what works. The value isn't the model or the data. It's the utility: applications that actually improve lives.
 
-**What if we built it together instead?**
-
-InfiniteZero is open infrastructure for training AI as a public good — the way the internet itself is a public good. Millions of devices, millions of people, contributing quietly to something that benefits everyone.
-
-No one company controls it. No one company profits from it. It just gets better, for everyone, together.
-
 ---
 
 ## ⚙️ How It Works
