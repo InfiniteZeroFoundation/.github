@@ -64,7 +64,7 @@ When AI is trained collectively, in the open, it stops being a product and start
 | 🌱 **Agriculture** | AI that learns from farmers across every climate and continent |
 | 📚 **Education** | Tools that improve from the experience of students everywhere, not just in well-funded schools |
 | ⚡ **Energy** | Grids and devices that learn from every home, factory, and region — not just the ones with smart meters and capital |
-| 🏭 **Manufacturing** | Models that learn from every workshop, factory, and machine — not just the ones already automated |
+| 🤖 **Devices & Robotics** | Sensors, machines, and robots owned by whoever runs them — training together without handing control to a central operator |
 
 *This is what AI looks like when it's built* for *humanity rather than* about *it.*
 
