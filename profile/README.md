@@ -150,9 +150,29 @@ Every dollar you contribute doesn't just fund the work — it helps prove that A
 
 ## 🤝 Get Involved
 
-🔹 Run a node → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)  
-🔹 Read the docs → [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)  
-🔹 Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
+We're looking for a few builders, not an army.
+
+A small group of open-source builders already work with us. Each contributes in the area they know best. Some write protocol code. Some work on the cryptography. Some design the developer experience. No one does everything. Each does a small piece.
+
+Individually, these are small contributions. Together, they've made something none of us could have built alone.
+
+They didn't join for tokens or titles. They joined because the network addresses something missing in AI today, and their work reflects the values they already hold.
+
+If that resonates, there's a place for you here — matched to what you already do best.
+
+**Ways to build with us:**
+
+- 🔹 **Protocol & Core** — consensus, privacy, edge coordination
+- 🔹 **Cryptography & Privacy** — encrypted pattern aggregation, local-first guarantees
+- 🔹 **Developer Experience** — SDKs, docs, integration paths for app builders
+- 🔹 **Applied AI** — model training pipelines, evaluation, federated optimisation
+- 🔹 **Community & Governance** — open deliberation, contributor onboarding, grants
+
+→ [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)  
+→ [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)  
+→ Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
+
+*You don't have to ask permission to start. Pick the area that's already yours, and build.*
 
 ---
 
