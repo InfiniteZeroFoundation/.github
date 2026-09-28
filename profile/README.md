@@ -150,7 +150,7 @@ Every dollar you contribute doesn't just fund the work — it helps prove that A
 
 ## 🤝 Get Involved
 
-A small group of open-source builders already work with us. Each contributes in the area they know best. Some write protocol code. Some work on the cryptography. Some design the developer experience. No one does everything. Each does a small piece.
+In addition to our core team, a small group of open-source builders already work with us. Each contributes in the area they know best. Some write protocol code. Some work on the cryptography. Some design the developer experience. No one does everything. Each does a small piece.
 
 Individually, these are small contributions. Together, they've made something none of us could have built alone.
 
