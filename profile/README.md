@@ -93,14 +93,15 @@ Apps are built the same way they always have been — but with InfiniteZero plug
 - Every interaction feeds back to the shared models, so your app **grows smarter with the global network**, without users ever seeing the protocol.
 - Your app earns a share of network fees — generating revenue while your users' data stays entirely in their hands.
 
-### ⚡ Why This Matters
+### ⚡ Why This Matters: The Shift to InfiniteZero
 
-| | Traditional AI | InfiniteZero |
-|---|---------------|--------------|
-| **Data** | You build your own dataset | The network provides millions of real-world contributions |
-| **Impact** | AI improves your product only | AI improves every app, every user, every model |
-| **Privacy** | You manage raw user data | Data stays on devices; privacy is guaranteed |
-| **Value** | Platform captures all value | App earns network fees; value returns to contributors |
+| Feature | Traditional AI (Big Tech & Frontier Labs) | Existing Federated Learning | InfiniteZero |
+| :--- | :--- | :--- | :--- |
+| **Data Location & Privacy** | Centralized servers. You build your own dataset and manage raw user data. | Partially distributed, still siloed. | **Fully decentralized, stays with you.** Data stays on devices; privacy is guaranteed. |
+| **Control & Ownership** | One company controls the process. The platform owns the data. | A third-party orchestrator. The platform still manages it. | **No one controls it. Public blockchain.** You own it. Always. |
+| **Transparency** | None. | Limited. | **Full, immutable blockchain record.** |
+| **Scalability & Impact** | High (centralized). AI improves your product only. | Limited. | **Designed for hundreds of millions to billions of devices.** AI improves every app, every user, every model. |
+| **Access & Value** | Gatekept by budget. The platform captures all value. | Controlled by third parties. | **Open to all, no gatekeepers.** App earns network fees; value returns to contributors. |
 
 📘 [Documentation](https://github.com/InfiniteZeroFoundation) · 🔗 [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
 
