@@ -21,17 +21,19 @@
 
 ## 💡 The Idea
 
-The lifeblood of AI is data. Without it, the most sophisticated engines ever built are useless — an electric car with no charge.
+**Data is AI's fuel. Without it, the most sophisticated engines ever built are dead weight.**
 
-Most of the world's useful data lies stranded in the periphery: phones, sensors, medical devices, farm equipment. No infrastructure exists to train on that data where it lives. No incentive exists to build it. So the fuel sits unused.
+Most useful data is stranded at the edge — phones, sensors, hospital devices, farm equipment. No way to train where it lives. No one paid to build it. So it sits unused.
 
-Today, accessing this data means trusting intermediaries, signing complex agreements, and handing value to platforms that return little. Even federated learning — often celebrated as a solution — still depends on a central coordinator. A gatekeeper. Someone who decides what participates, when, and how. This is not a philosophical problem. It's an engineering bottleneck.
+Today, access means trusting middlemen, signing contracts, and handing value to platforms that give little back. Even federated learning needs a central coordinator — a gatekeeper deciding who joins, when, and how. Not a philosophical problem. An engineering bottleneck.
 
-And it means the AI that could improve health, farming, and education remains starved of the one thing it needs most.
+So AI that could improve health, farming, and education stays starved.
 
-**InfiniteZero removes the bottleneck.**
+## InfiniteZero removes the bottleneck.
 
-We grow a network together — infrastructure that unlocks data at the edge. No intermediaries. No gatekeepers. Trainers finally access the data they need. Applications finally deliver the value they promise. The AI is open-sourced by default — not because we choose to, but because that's what works. The value isn't the model or the data. It's the utility: applications that actually improve lives.
+We're building edge infrastructure that unlocks data where it lives. No intermediaries. No gatekeepers. Trainers get data. Applications deliver. AI is open source by default — not ideology, architecture.
+
+**The model isn't the product. The data isn't the product. Utility is: applications that actually improve lives.**
 
 ---
 
