@@ -62,6 +62,20 @@
                 "expenses": 40000,
                 "currency": "USD",
                 "description": "Edge City SHIFT Grant ($40k supported by Vitalik Buterin), Cosmos Institute grant ($5k)."
+            },
+            {
+                "year": 2023,
+                "income": 5000,
+                "expenses": 5000,
+                "currency": "USD",
+                "description": "Cosmos Institute grantee ($5,000) — awarded by Brendan McCord to support early-stage research into decentralized intelligence networks."
+            },
+                        {
+                "year": 2023,
+                "income": 2000,
+                "expenses": 2000,
+                "currency": "USD",
+                "description": "Oxford University CS PhD research grant ($2,000) supporting academic research on decentralized AI and federated learning systems."
             }
         ]
     }
