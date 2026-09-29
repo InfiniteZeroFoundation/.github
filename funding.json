@@ -58,10 +58,10 @@
         "history": [
             {
                 "year": 2024,
-                "income": 45000,
+                "income": 50000,
                 "expenses": 40000,
                 "currency": "USD",
-                "description": "Edge City SHIFT Grant ($40k supported by Vitalik Buterin), Cosmos Institute grant ($5k)."
+                "description": "Edge City SHIFT Grant ($40k supported by Vitalik Buterin) and other early-stage support for the DIN protocol."
             },
             {
                 "year": 2023,
@@ -70,7 +70,7 @@
                 "currency": "USD",
                 "description": "Cosmos Institute grantee ($5,000) — awarded by Brendan McCord to support early-stage research into decentralized intelligence networks."
             },
-                        {
+            {
                 "year": 2023,
                 "income": 2000,
                 "expenses": 2000,
