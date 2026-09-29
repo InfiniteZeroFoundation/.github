@@ -157,7 +157,7 @@ In addition to our core team, a small group of open-source builders already work
 
 Individually, these are small contributions. Together, they've made something none of us could have built alone.
 
-They didn't join for tokens or titles. They joined because the network addresses something missing in AI today, and their work reflects the values they already hold.
+These builders join because the network addresses something for them missing in AI today, and their work reflects the values they already hold.
 
 If that resonates, there's a place for you here — matched to what you already do best.
 
