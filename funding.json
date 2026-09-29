@@ -2,7 +2,7 @@
     "$schema": "https://fundingjson.org/schema/v1.1.0.json",
     "version": "v1.1.0",
     "entity": {
-        "type": "organization",
+        "type": "organisation",
         "role": "maintainer",
         "name": "InfiniteZero Foundation",
         "email": "abrahamnash@protonmail.com",
