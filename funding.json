@@ -2,7 +2,7 @@
     "$schema": "https://fundingjson.org/schema/v1.1.0.json",
     "version": "v1.1.0",
     "entity": {
-        "type": "organisation",
+        "type": "organization",
         "role": "maintainer",
         "name": "InfiniteZero Foundation",
         "email": "abrahamnash@protonmail.com",
@@ -21,7 +21,7 @@
         "repositoryUrl": {
             "url": "https://github.com/InfiniteZeroFoundation"
         },
-        "licenses": ["spdx:MIT"],
+        "licenses": ["spdx:Apache-2.0"],
         "tags": ["ai", "federated-learning", "ethereum", "privacy", "open-source", "decentralized", "public-good"]
     }],
     "funding": {
@@ -38,8 +38,8 @@
                 "guid": "protocol-sustainer",
                 "status": "active",
                 "name": "Protocol Sustainer",
-                "description": "Supports ongoing development of the DIN protocol, smart contracts, and federated learning infrastructure.",
-                "amount": 500,
+                "description": "Core funding for DIN protocol development, smart contracts, federated learning infrastructure, validator network scaling, and security audits. Priced at the FLOSS/fund annual ceiling.",
+                "amount": 8333,
                 "currency": "USD",
                 "frequency": "monthly",
                 "channels": ["infinitezero-email"]
