@@ -124,7 +124,7 @@ InfiniteZero runs on Ethereum — open, decentralised, with no central authority
 
 ## 👥 The Team
 
-A small team of PhD researchers spanning Oxford, South Korea, and France — rooted in Oxford's Human-Centered Computing division, home to Emeritus Sir Tim Berners-Lee and Sir Nigel Shadbolt. Three years of quiet building. Now it's live.
+A small team of PhD researchers spanning Oxford, South Korea, and France — rooted in Oxford's Human-Centered Computing division, home to Emeritus Sir Tim Berners-Lee and Sir Nigel Shadbolt. Many years of quiet building. Now it's live.
 
 ---
 
