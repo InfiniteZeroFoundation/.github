@@ -85,6 +85,19 @@ Apps are built the same way they always have been — but with InfiniteZero plug
 - Receive anonymized, encrypted updates that make your model smarter — without touching raw user data.
 - Your work improves the AI for everyone, everywhere.
 
+> **What can be trained?**
+> In principle, anything. The protocol coordinates phases, stakes, and IPFS CIDs on-chain — it doesn't care about model type, and gas costs don't grow with model size. Each model brings its own services for training, auditing, and aggregation.
+>
+> - **Model families:** classical ML, CNNs, MobileNets and other on-device architectures, RNNs/LSTMs, transformers
+> - **LLMs:** fine-tuned with federated parameter-efficient methods (FedLoRA / FedQLoRA) — only adapter weights move, not the full base model
+> - **Frameworks:** PyTorch, TensorFlow/Keras, scikit-learn, JAX — anything Python can call
+> - **FL algorithms:** FedAvg, FedProx, FedOpt variants, SCAFFOLD, FedNova, q-FFL, plus Byzantine-robust aggregators
+> - **FL types:** horizontal (default), vertical, heterogeneity-aware, personalized, transfer
+>
+> The practical limit is hardware and participant availability, not the protocol. Today the MNIST reference is the only end-to-end tested example — everything else is supported by design and needs the model owner to write and test the services.
+>
+> 📘 [Full details →](Documentation/public/what-can-be-trained.md)
+
 ### 2️⃣ Application Developers
 *You bring the utility. The network brings the scale.*
 
