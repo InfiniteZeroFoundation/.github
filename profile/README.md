@@ -136,7 +136,7 @@ InfiniteZero builds on Ethereum — open, decentralised, with no central authori
 
 #### 🍓 Raspberry Pi Support
 
-InfiniteZero runs on affordable, energy-efficient hardware like the [Raspberry Pi](https://www.raspberrypi.com/), lowering barriers to participation and enabling a more decentralised network.
+InfiniteZero validators run on affordable, energy-efficient hardware like the [Raspberry Pi](https://www.raspberrypi.com/), lowering barriers to participation and enabling a more decentralised network.
 
 📄 [Read the White Paper →](YOUR_WHITEPAPER_LINK)
 
