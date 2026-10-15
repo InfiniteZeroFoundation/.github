@@ -132,9 +132,13 @@ Your data never leaves your device. You're not a product. You're a contributor t
 
 ## 🔷 Built on Ethereum
 
-InfiniteZero runs on Ethereum — open, decentralised, with no central authority. The network is secured by validators. The protocol is governed by the community. The models it trains belong to the commons.
+InfiniteZero builds on Ethereum — open, decentralised, with no central authority. The network is secured by validators. The protocol is governed by the community.
 
-📄 [Read the White Paper →](https://github.com/decentralizedintelligencenetwork/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
+#### 🍓 Raspberry Pi Support
+
+InfiniteZero runs on affordable, energy-efficient hardware like the [Raspberry Pi](https://www.raspberrypi.com/), lowering barriers to participation and enabling a more decentralised network.
+
+📄 [Read the White Paper →](YOUR_WHITEPAPER_LINK)
 
 ---
 
