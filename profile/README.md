@@ -49,7 +49,6 @@ As you go about your routine, your device quietly contributes encrypted, anonymi
 Your device learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
 ```
 
-
 The more people use apps that plug in to InfiniteZero, the better the AI gets — for everyone. You don't have to do anything. You just keep living your life, and the network grows. This is what AI for an open-decentralized internet looks like.
 
 Like a library that gets better every time someone reads from it, but no one has to think about how the shelves are organised.
@@ -115,6 +114,21 @@ Apps are built the same way they always have been — but with InfiniteZero plug
 | **Transparency** | None. | Limited. | **Full, immutable blockchain record.** |
 | **Scalability & Impact** | High (centralized). AI improves your product only. | Limited. | **Designed for hundreds of millions to billions of devices.** AI improves every app, every user, every model. |
 | **Access & Value** | Gatekept by budget. The platform captures all value. | Controlled by third parties. | **Open to all, no gatekeepers.** App earns network fees; value returns to contributors. |
+
+### 3️⃣ Getting Started — Pick Your Path
+
+Whether you're training a model, building an app, or joining as a testnet partner, start with the guide that matches what you already do. The DevNet 2.0 testnet is experimental; the tested end-to-end example is MNIST / Model_0.
+
+| You are… | Start here |
+| :--- | :--- |
+| **Model trainer** — you have a model + dataset | 📘 [What can I train on DIN?](Documentation/public/what-can-be-trained.md) — fit, what to bring, the GI round, pre-start checklist |
+| **Application developer** — you want to plug an app in | 📘 [Client onboarding](Documentation/public/guides/client-onboarding.md) and [Services](Documentation/public/services.md) — custom training/audit/aggregation services per model |
+| **Testnet partner / community** — evaluating whether to join | 📘 [Partner introduction](Documentation/public/partner-introduction.md) — roles, hardware, costs, what's settled vs. undecided |
+| **Protocol contributor** — consensus, crypto, DX, applied AI | 🤝 [Get Involved](#-get-involved) below, or open an issue on [DevNet](https://github.com/InfiniteZeroFoundation/DevNet/issues) |
+
+**Before you register a model:** the DIN-Representative must approve the model and authorize the task coordinator and task auditor as slashers. See [model workflow](Documentation/public/workflows/model-workflow.md). Registration and manifest-update fees are paid in test ETH; DP is off by default.
+
+Questions while testing → [Discussion #102](https://github.com/InfiniteZeroFoundation/DevNet/discussions/102) · partner intake → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
 📘 [Documentation](https://github.com/InfiniteZeroFoundation) · 🔗 [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
 
