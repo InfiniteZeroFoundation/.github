@@ -43,10 +43,10 @@ You keep using the apps you already use — messaging, health tracking, farming 
 
 Behind the scenes, those apps plug in to InfiniteZero. Instead of sending your data to a central server, they keep it stored locally on your device. InfiniteZero plugs into that local data — enabling applications to securely contribute to collective AI training without building expensive infrastructure or moving massive datasets around.
 
-As you go about your routine, your device quietly contributes encrypted, anonymised patterns to the network. Not your data. Not your behaviour. Just patterns that help shared AI models grow smarter for everyone.
+As you go about your routine, your device quietly contributes what it has learned — model updates, not your raw data — to the network. Those updates help shared AI models grow smarter for everyone. Protecting them with encryption and privacy techniques is a core part of the design, and that work is still in progress.
 
 ```
-Your device learns locally  →  Encrypted patterns join the network  →  Shared AI models improve for everyone
+Your device learns locally  →  Model updates join the network  →  Shared AI models improve for everyone
 ```
 
 The more people use apps that plug in to InfiniteZero, the better the AI gets — for everyone. You don't have to do anything. You just keep living your life, and the network grows. This is what AI for an open-decentralized internet looks like.
@@ -74,14 +74,14 @@ When AI is trained collectively, in the open, it stops being a product and start
 
 ## 🔧 For Developers
 
-Apps are built the same way they always have been — but with InfiniteZero plugged in as a backend layer. Users opt in to contribute encrypted learning patterns. Data stays local. The app earns a share of network fees. The models improve for everyone.
+Apps are built the same way they always have been — but with InfiniteZero plugged in as a backend layer. Users opt in to contribute model updates. Raw data stays local. The goal is for apps to earn a share of network fees. The models improve for everyone.
 
 ### 1️⃣ Model Trainers
 *You bring the brains. InfiniteZero brings the network.*
 
 - Deploy your AI models to the protocol.
 - Users' devices train them locally on real-world data.
-- Receive anonymized, encrypted updates that make your model smarter — without touching raw user data.
+- Receive model updates that make your model smarter — without collecting raw user data.
 - Your work improves the AI for everyone, everywhere.
 
 > **What can be trained?**
@@ -95,7 +95,7 @@ Apps are built the same way they always have been — but with InfiniteZero plug
 >
 > The practical limit is hardware and participant availability, not the protocol. Today the MNIST reference is the only end-to-end tested example — everything else is supported by design and needs the model owner to write and test the services.
 >
-> 📘 [Full details →](Documentation/public/what-can-be-trained.md)
+> 📘 [Full details →](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/what-can-be-trained.md)
 
 ### 2️⃣ Application Developers
 *You bring the utility. The network brings the scale.*
@@ -103,17 +103,17 @@ Apps are built the same way they always have been — but with InfiniteZero plug
 - Build apps that connect your users to the AI commons.
 - Users benefit automatically — smarter recommendations, better predictions, personalized insights.
 - Every interaction feeds back to the shared models, so your app **grows smarter with the global network**, without users ever seeing the protocol.
-- Your app earns a share of network fees — generating revenue while your users' data stays entirely in their hands.
+- Apps are intended to earn a share of network fees (not yet built), while users' raw data stays on their devices.
 
 ### ⚡ Why This Matters: The Shift to InfiniteZero
 
 | Feature | Traditional AI (Big Tech & Frontier Labs) | Existing Federated Learning | InfiniteZero |
 | :--- | :--- | :--- | :--- |
-| **Data Location & Privacy** | Centralized servers. You build your own dataset and manage raw user data. | Partially distributed, still siloed. | **Fully decentralized, stays with you.** Data stays on devices; privacy is guaranteed. |
-| **Control & Ownership** | One company controls the process. The platform owns the data. | A third-party orchestrator. The platform still manages it. | **No one controls it. Public blockchain.** You own it. Always. |
+| **Data Location & Privacy** | Centralized servers. You build your own dataset and manage raw user data. | Partially distributed, still siloed. | **Raw data stays with you.** Training happens on devices; only model updates are shared. Optional privacy protections exist and are being strengthened. |
+| **Control & Ownership** | One company controls the process. The platform owns the data. | A third-party orchestrator. The platform still manages it. | **Coordinated on a public blockchain.** Smart contracts enforce the rules, not a company. During testing, the core team still manages protocol settings. |
 | **Transparency** | None. | Limited. | **Full, immutable blockchain record.** |
 | **Scalability & Impact** | High (centralized). AI improves your product only. | Limited. | **Designed for hundreds of millions to billions of devices.** AI improves every app, every user, every model. |
-| **Access & Value** | Gatekept by budget. The platform captures all value. | Controlled by third parties. | **Open to all, no gatekeepers.** App earns network fees; value returns to contributors. |
+| **Access & Value** | Gatekept by budget. The platform captures all value. | Controlled by third parties. | **Open to all.** Anyone can join as a participant; new models pass an approval step during testing. Rewards go to the people who run the network. |
 
 ### 3️⃣ Getting Started — Pick Your Path
 
@@ -121,16 +121,16 @@ Whether you're training a model, building an app, or joining as a testnet partne
 
 | You are… | Start here |
 | :--- | :--- |
-| **Model trainer** — you have a model + dataset | 📘 [What can I train on DIN?](Documentation/public/what-can-be-trained.md) — fit, what to bring, the GI round, pre-start checklist |
-| **Application developer** — you want to plug an app in | 📘 [Client onboarding](Documentation/public/guides/client-onboarding.md) and [Services](Documentation/public/services.md) — custom training/audit/aggregation services per model |
-| **Testnet partner / community** — evaluating whether to join | 📘 [Partner introduction](Documentation/public/partner-introduction.md) — roles, hardware, costs, what's settled vs. undecided |
+| **Model trainer** — you have a model + dataset | 📘 [What can I train on DIN?](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/what-can-be-trained.md) — fit, what to bring, the GI round, pre-start checklist |
+| **Application developer** — you want to plug an app in | 📘 [Client onboarding](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/guides/client-onboarding.md) and [Services](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/services.md) — custom training/audit/aggregation services per model |
+| **Testnet partner / community** — evaluating whether to join | 📘 [Partner introduction](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/partner-introduction.md) — roles, hardware, costs, what's settled vs. undecided |
 | **Protocol contributor** — consensus, crypto, DX, applied AI | 🤝 [Get Involved](#-get-involved) below, or open an issue on [DevNet](https://github.com/InfiniteZeroFoundation/DevNet/issues) |
 
-**Before you register a model:** the DIN-Representative must approve the model and authorize the task coordinator and task auditor as slashers. See [model workflow](Documentation/public/workflows/model-workflow.md). Registration and manifest-update fees are paid in test ETH; DP is off by default.
+**Before you register a model:** the DIN-Representative must approve the model and authorize the task coordinator and task auditor as slashers. See [model workflow](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/workflows/model-workflow.md). Registration and manifest-update fees are paid in test ETH; DP is off by default.
 
 Questions while testing → [Discussion #102](https://github.com/InfiniteZeroFoundation/DevNet/discussions/102) · partner intake → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
-📘 [Documentation](https://github.com/InfiniteZeroFoundation) · 🔗 [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
+📘 [Documentation](https://github.com/InfiniteZeroFoundation/DevNet/tree/develop/Documentation) · 🔗 [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
 
 ---
 
@@ -138,7 +138,7 @@ Questions while testing → [Discussion #102](https://github.com/InfiniteZeroFou
 
 When you use an app that plugs in to InfiniteZero, your everyday activity — movement, choices, patterns — quietly helps train AI that belongs to everyone.
 
-Your data never leaves your device. You're not a product. You're a contributor to something shared.
+Your raw data stays on your device. You're not a product. You're a contributor to something shared.
 
 *Think of it less like using a service, and more like leaving a book better than you found it.*
 
@@ -146,13 +146,13 @@ Your data never leaves your device. You're not a product. You're a contributor t
 
 ## 🔷 Built on Ethereum
 
-InfiniteZero builds on Ethereum — open, decentralised, with no central authority. The network is secured by validators. The protocol is governed by the community.
+InfiniteZero builds on Ethereum — open, decentralised, with no central authority. The network is secured by validators. Governance happens in the open today, with on-chain community governance planned after mainnet.
 
-#### 🍓 Raspberry Pi Support
+#### 🍓 Built for Low-Cost Hardware
 
-InfiniteZero validators run on affordable, energy-efficient hardware like the [Raspberry Pi](https://www.raspberrypi.com/), lowering barriers to participation and enabling a more decentralised network.
+We're aiming for validators to run on affordable, energy-efficient hardware like the [Raspberry Pi](https://www.raspberrypi.com/), lowering barriers to participation and enabling a more decentralised network. This hasn't been tested on a Raspberry Pi yet.
 
-📄 [Read the White Paper →](YOUR_WHITEPAPER_LINK)
+📄 [Read the White Paper →](https://github.com/InfiniteZeroFoundation/White-Paper)
 
 ---
 
@@ -202,10 +202,10 @@ If that resonates, there's a place for you here — matched to what you already 
 - 🔹 **Applied AI** — model training pipelines, evaluation, federated optimisation
 - 🔹 **Community & Governance** — open deliberation, contributor onboarding, grants
 
-→ [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)  
-→ [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)  
-→ Join the community on Telegram → [https://](https://t.me/+h46VS3AnO384ZGI8)
-→ Join the community on Signal → https://signal.group/#CjQKICVqJ0Ri3KGCZOsf8A3dhmg8GC_vc1MBmBrq0JV7lIr6EhBCOwElVHvE0swjO8kSk7ky
+→ [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)\
+→ [Documentation](https://github.com/InfiniteZeroFoundation/DevNet/tree/develop/Documentation)\
+→ Join the community on Telegram → [t.me/+h46VS3AnO384ZGI8](https://t.me/+h46VS3AnO384ZGI8)\
+→ Join the community on Signal → [Signal group](https://signal.group/#CjQKICVqJ0Ri3KGCZOsf8A3dhmg8GC_vc1MBmBrq0JV7lIr6EhBCOwElVHvE0swjO8kSk7ky)\
 → Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
 *You don't have to ask permission to start. Pick the area that's already yours, and build.*
@@ -215,6 +215,6 @@ If that resonates, there's a place for you here — matched to what you already 
 <div align="center">
 
 *InfiniteZero Foundation — open AI infrastructure, built by everyone, for everyone.*  
-*Open protocol · Community governed · © 2026*
+*Open protocol · Built in the open · © 2026*
 
 </div>
