@@ -9,13 +9,32 @@
 
 </div>
 
-<br>
+<p align="center">
+
+🌐 [English](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.md) · [العربية](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.ar.md) · [Deutsch](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.de.md) · [Español](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.es.md) · [Eesti](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.et.md) · [فارسی](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.fa.md) · [Suomi](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.fi.md) · [Français](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.fr.md) · [हिन्दी](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.hi.md) · [Íslenska](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.is.md) · [Italiano](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.it.md) · [日本語](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.ja.md) · [ქართული](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.ka.md) · [Lietuvių](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.lt.md) · [Latviešu](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.lv.md) · [Norsk](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.no.md) · [Polski](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.pl.md) · [Português](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.pt.md) · [Русский](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.ru.md) · [Српски](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.rs.md) · [संस्कृतम्](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.sa.md) · [Svenska](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.sv.md) · [Kiswahili](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.sw.md) · [اردو](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.ur.md) · [Tiếng Việt](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.vi.md) · [中文](https://github.com/InfiniteZeroFoundation/.github/blob/main/profile/README.zh.md)
+
+</p>
 
 > The internet gave everyone a voice.  
 > Open-source gave everyone a tool.  
 > AI is still waiting.  
 >
 > **InfiniteZero is building the commons that changes that.**
+
+<div align="center">
+
+### 🧪 [Try the DevNet](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/getting-started.md) · 🛠 [Contribute](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · 💬 [Join the chat](https://t.me/+h46VS3AnO384ZGI8)
+
+</div>
+
+## 📍 Where We Are Today
+
+- **DevNet 2.0 is live and experimental.** It runs on the Optimism Sepolia test network and uses test ETH, so nothing has real-money value yet. Expect bugs, changes and resets.
+- **One tested example so far:** an MNIST image model runs end to end. Other model types are supported by design but not yet tested.
+- **Next:** a public testnet, then mainnet with a fully decentralised fair launch: no ICO and no VC allocation. Tokens go to the people who run the network.
+- **The names:** the InfiniteZero Foundation builds **DIN** (Decentralized Intelligence Network), the protocol. **DevNet** is DIN's live test network, and **`dincli`** is the command-line tool participants use.
+
+📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper) · 🗺 [Roadmap](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/ROADMAP.md)
 
 ---
 
@@ -115,22 +134,21 @@ Apps are built the same way they always have been — but with InfiniteZero plug
 | **Scalability & Impact** | High (centralized). AI improves your product only. | Limited. | **Designed for hundreds of millions to billions of devices.** AI improves every app, every user, every model. |
 | **Access & Value** | Gatekept by budget. The platform captures all value. | Controlled by third parties. | **Open to all.** Anyone can join as a participant; new models pass an approval step during testing. Rewards go to the people who run the network. |
 
-### 3️⃣ Getting Started — Pick Your Path
+---
 
-Whether you're training a model, building an app, or joining as a testnet partner, start with the guide that matches what you already do. The DevNet 2.0 testnet is experimental; the tested end-to-end example is MNIST / Model_0.
+## 🚀 Getting Started — Pick Your Path
+
+Start with the guide that matches what you already do.
 
 | You are… | Start here |
 | :--- | :--- |
-| **Model trainer** — you have a model + dataset | 📘 [What can I train on DIN?](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/what-can-be-trained.md) — fit, what to bring, the GI round, pre-start checklist |
+| **Testnet participant** — you want to run a node or join a training round | 📘 [Getting started on DevNet](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/getting-started.md) |
+| **Model trainer** — you have a model + dataset | 📘 [What can I train on DIN?](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/what-can-be-trained.md) — fit, what to bring, the training round, pre-start checklist |
 | **Application developer** — you want to plug an app in | 📘 [Client onboarding](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/guides/client-onboarding.md) and [Services](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/services.md) — custom training/audit/aggregation services per model |
-| **Testnet partner / community** — evaluating whether to join | 📘 [Partner introduction](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/partner-introduction.md) — roles, hardware, costs, what's settled vs. undecided |
-| **Protocol contributor** — consensus, crypto, DX, applied AI | 🤝 [Get Involved](#-get-involved) below, or open an issue on [DevNet](https://github.com/InfiniteZeroFoundation/DevNet/issues) |
+| **Partner or community** — evaluating whether to join | 📘 [Partner introduction](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/partner-introduction.md) — roles, hardware, costs, what's settled vs. undecided |
+| **Contributor** — code, docs, research, translation | 🛠 [Good first issues](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · [Contributing guide](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/CONTRIBUTING.md) · [Roadmap](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/ROADMAP.md) |
 
-**Before you register a model:** the DIN-Representative must approve the model and authorize the task coordinator and task auditor as slashers. See [model workflow](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/workflows/model-workflow.md). Registration and manifest-update fees are paid in test ETH; DP is off by default.
-
-Questions while testing → [Discussion #102](https://github.com/InfiniteZeroFoundation/DevNet/discussions/102) · partner intake → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
-
-📘 [Documentation](https://github.com/InfiniteZeroFoundation/DevNet/tree/develop/Documentation) · 🔗 [DevNet](https://github.com/InfiniteZeroFoundation/DevNet) · 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper)
+📘 [All documentation](https://github.com/InfiniteZeroFoundation/DevNet/tree/develop/Documentation)
 
 ---
 
@@ -152,8 +170,6 @@ InfiniteZero builds on Ethereum — open, decentralised, with no central authori
 
 We're aiming for validators to run on affordable, energy-efficient hardware like the [Raspberry Pi](https://www.raspberrypi.com/), lowering barriers to participation and enabling a more decentralised network. This hasn't been tested on a Raspberry Pi yet.
 
-📄 [Read the White Paper →](https://github.com/InfiniteZeroFoundation/White-Paper)
-
 ---
 
 ## 👥 The Team
@@ -171,16 +187,6 @@ A small team of researchers, developers, and open-source contributors spanning 4
 | 🎓 **UC Berkeley RDI Summit** | Selected for Speaker Presentation at the Summit on Responsible Decentralized Intelligence |
 | 🔬 **Decentralized Research Center** | Featured by the DRC, recently funded by the Ethereum Foundation |
 | 🏅 **Cosmos Institute — Grantee** | Early development grant, supported by Brendan McCord |
-
----
-
-## 🌱 Support Us
-
-We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-network) — a zero-fee crypto donation platform. Donations are regularly matched, meaning a small contribution goes a long way.
-
-Every dollar you contribute doesn't just fund the work — it helps prove that AI infrastructure built for everyone, by everyone, is possible. You're not a donor. You're a founding contributor to something that belongs to no one and benefits everyone.
-
-➡️ [Support us on Giveth](https://giveth.io/project/infinitezero-network)
 
 ---
 
@@ -202,13 +208,22 @@ If that resonates, there's a place for you here — matched to what you already 
 - 🔹 **Applied AI** — model training pipelines, evaluation, federated optimisation
 - 🔹 **Community & Governance** — open deliberation, contributor onboarding, grants
 
-→ [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)\
-→ [Documentation](https://github.com/InfiniteZeroFoundation/DevNet/tree/develop/Documentation)\
-→ Join the community on Telegram → [t.me/+h46VS3AnO384ZGI8](https://t.me/+h46VS3AnO384ZGI8)\
-→ Join the community on Signal → [Signal group](https://signal.group/#CjQKICVqJ0Ri3KGCZOsf8A3dhmg8GC_vc1MBmBrq0JV7lIr6EhBCOwElVHvE0swjO8kSk7ky)\
-→ Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
+→ **Start contributing:** [good first issues](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · [contributing guide](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/CONTRIBUTING.md)\
+→ **Questions and chat:** [Telegram](https://t.me/+h46VS3AnO384ZGI8) (main channel) · [Signal](https://signal.group/#CjQKICVqJ0Ri3KGCZOsf8A3dhmg8GC_vc1MBmBrq0JV7lIr6EhBCOwElVHvE0swjO8kSk7ky)\
+→ **Bugs and ideas:** [GitHub issues](https://github.com/InfiniteZeroFoundation/DevNet/issues)\
+→ **Partnerships:** [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
 *You don't have to ask permission to start. Pick the area that's already yours, and build.*
+
+---
+
+## 🌱 Support Us
+
+We're raising funds to scale the network on [Giveth](https://giveth.io/project/infinitezero-network) — a zero-fee crypto donation platform. Donations are regularly matched, meaning a small contribution goes a long way.
+
+Every dollar you contribute doesn't just fund the work — it helps prove that AI infrastructure built for everyone, by everyone, is possible. You're not a donor. You're a founding contributor to something that belongs to no one and benefits everyone.
+
+➡️ [Support us on Giveth](https://giveth.io/project/infinitezero-network)
 
 ---
 
