@@ -6,24 +6,36 @@
         "role": "maintainer",
         "name": "InfiniteZero Foundation",
         "email": "abrahamnash@protonmail.com",
-        "description": "Building a trustless, privacy-first AI commons — data stays local while applications train AI at scale, deployed on Ethereum for real-world impact. Recognised by the Ethereum Foundation, Edge City, and founded at the University of Oxford.",
+        "description": "Building an open, privacy-first AI commons on Ethereum: participants train shared AI models on their own devices, so raw data stays local. Founded in Computer Science at the University of Oxford; supported by Edge City's SHIFT Grants and the Cosmos Institute.",
         "webpageUrl": {
             "url": "https://infinitezero.foundation"
         }
     },
-    "projects": [{
-        "guid": "din-protocol",
-        "name": "Decentralized Intelligence Network (DIN)",
-        "description": "Open infrastructure for training AI as a public good. Millions of devices contribute to shared AI models using federated learning — raw data never leaves the user's device. No one company controls it. No one company profits from it. It just gets better, for everyone, together.",
-        "webpageUrl": {
-            "url": "https://infinitezero.foundation"
-        },
-        "repositoryUrl": {
-            "url": "https://github.com/InfiniteZeroFoundation"
-        },
-        "licenses": ["spdx:Apache-2.0"],
-        "tags": ["ai", "federated-learning", "ethereum", "privacy", "open-source", "decentralized", "public-good"]
-    }],
+    "projects": [
+        {
+            "guid": "din-protocol",
+            "name": "Decentralized Intelligence Network (DIN)",
+            "description": "Open protocol for training AI as a public good. Participants train models locally with federated learning and share model updates, not raw data, while smart contracts on Ethereum coordinate, verify and reward each training round. DevNet 2.0 is live on Optimism Sepolia, with a public testnet and a fair-launch mainnet planned.",
+            "webpageUrl": {
+                "url": "https://infinitezero.foundation"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/InfiniteZeroFoundation"
+            },
+            "licenses": [
+                "spdx:Apache-2.0"
+            ],
+            "tags": [
+                "ai",
+                "federated-learning",
+                "ethereum",
+                "privacy",
+                "open-source",
+                "decentralized",
+                "public-good"
+            ]
+        }
+    ],
     "funding": {
         "channels": [
             {
@@ -31,6 +43,12 @@
                 "type": "other",
                 "address": "abrahamnash@protonmail.com",
                 "description": "Contact for grants and institutional funding."
+            },
+            {
+                "guid": "giveth",
+                "type": "payment-provider",
+                "address": "https://giveth.io/project/infinitezero-network",
+                "description": "Crypto donations via Giveth (zero fees; donations are regularly matched)."
             }
         ],
         "plans": [
@@ -42,7 +60,9 @@
                 "amount": 8333,
                 "currency": "USD",
                 "frequency": "monthly",
-                "channels": ["infinitezero-email"]
+                "channels": [
+                    "infinitezero-email"
+                ]
             },
             {
                 "guid": "goodwill",
@@ -52,7 +72,10 @@
                 "amount": 0,
                 "currency": "USD",
                 "frequency": "one-time",
-                "channels": ["infinitezero-email"]
+                "channels": [
+                    "giveth",
+                    "infinitezero-email"
+                ]
             }
         ],
         "history": [
