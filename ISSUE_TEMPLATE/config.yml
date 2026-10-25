@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and chat (Telegram)
+    url: https://t.me/+h46VS3AnO384ZGI8
+    about: Ask questions, get help with setup, or just say hello.
+  - name: Report a security vulnerability
+    url: https://github.com/InfiniteZeroFoundation/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not as a public issue.
+  - name: Good first issues
+    url: https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22
+    about: New here? Start with one of these.
