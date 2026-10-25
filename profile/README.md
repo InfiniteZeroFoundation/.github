@@ -15,12 +15,11 @@
 
 </p>
 
-> The internet gave everyone a voice.  
-> Open-source gave everyone a tool.  
-> AI is still waiting.  
+> The internet gave everyone a voice.\
+> Open source gave everyone a tool.\
+> Yet AI learns from only a fraction of the world's data.
 >
-> **InfiniteZero is building the commons that changes that.**
-
+> **InfiniteZero lets AI learn from the rest — where it lives, for everyone.**
 <div align="center">
 
 ### 🧪 [Try the DevNet](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/getting-started.md) · 🛠 [Contribute](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · 💬 [Join the chat](https://t.me/+h46VS3AnO384ZGI8)
