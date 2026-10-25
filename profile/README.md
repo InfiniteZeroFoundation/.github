@@ -204,6 +204,8 @@ If that resonates, there's a place for you here — matched to what you already 
 
 → [github.com/InfiniteZeroFoundation/DevNet](https://github.com/InfiniteZeroFoundation/DevNet)  
 → [docs.infinitezero.network](https://github.com/InfiniteZeroFoundation/DevNet/tree/main/Documentation)  
+→ Join the community on Telegram → [https://](https://t.me/+h46VS3AnO384ZGI8)
+→ Join the community on Signal → https://signal.group/#CjQKICVqJ0Ri3KGCZOsf8A3dhmg8GC_vc1MBmBrq0JV7lIr6EhBCOwElVHvE0swjO8kSk7ky
 → Say hello → [abrahamnash@protonmail.com](mailto:abrahamnash@protonmail.com)
 
 *You don't have to ask permission to start. Pick the area that's already yours, and build.*
