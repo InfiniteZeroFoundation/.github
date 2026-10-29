@@ -8,16 +8,16 @@
         "email": "abrahamnash@protonmail.com",
         "description": "Building an open, privacy-first AI commons on Ethereum: participants train shared AI models on their own devices, so raw data stays local. Founded in Computer Science at the University of Oxford; supported by Edge City's SHIFT Grants and the Cosmos Institute.",
         "webpageUrl": {
-            "url": "https://infinitezero.foundation"
+            "url": "https://github.com/InfiniteZeroFoundation"
         }
     },
     "projects": [
         {
             "guid": "din-protocol",
-            "name": "Decentralized Intelligence Network (DIN)",
-            "description": "Open protocol for training AI as a public good. Participants train models locally with federated learning and share model updates, not raw data, while smart contracts on Ethereum coordinate, verify and reward each training round. DevNet 2.0 is live on Optimism Sepolia, with a public testnet and a fair-launch mainnet planned.",
+            "name": "InfiniteZero",
+            "description": "Open protocol for training AI as a public good (formerly the Decentralized Intelligence Network, DIN). Participants train models locally with federated learning and share model updates, not raw data, while smart contracts on Ethereum coordinate, verify and reward each training round. DevNet 1.0 is live on Optimism Sepolia, DevNet 2.0 is next, with a public testnet and a fair-launch mainnet planned.",
             "webpageUrl": {
-                "url": "https://infinitezero.foundation"
+                "url": "https://github.com/InfiniteZeroFoundation"
             },
             "repositoryUrl": {
                 "url": "https://github.com/InfiniteZeroFoundation"
@@ -56,7 +56,7 @@
                 "guid": "protocol-sustainer",
                 "status": "active",
                 "name": "Protocol Sustainer",
-                "description": "Core funding for DIN protocol development, smart contracts, federated learning infrastructure, validator network scaling, and security audits. Priced at the FLOSS/fund annual ceiling.",
+                "description": "Core funding for InfiniteZero protocol development, smart contracts, federated learning infrastructure, validator network scaling, and security audits. Priced at the FLOSS/fund annual ceiling.",
                 "amount": 8333,
                 "currency": "USD",
                 "frequency": "monthly",
@@ -80,25 +80,25 @@
         ],
         "history": [
             {
-                "year": 2024,
-                "income": 50000,
+                "year": 2025,
+                "income": 40000,
                 "expenses": 40000,
                 "currency": "USD",
-                "description": "Edge City SHIFT Grant ($40k supported by Vitalik Buterin) and other early-stage support for the DIN protocol."
+                "description": "Edge City SHIFT developer grant ($40,000, supported by Vitalik Buterin), awarded November 2025, for protocol development."
             },
             {
                 "year": 2023,
                 "income": 5000,
                 "expenses": 5000,
                 "currency": "USD",
-                "description": "Cosmos Institute grantee ($5,000) — awarded by Brendan McCord to support early-stage research into decentralized intelligence networks."
+                "description": "Cosmos Institute grant ($5,000), awarded by Brendan McCord, for early-stage research into decentralized intelligence networks."
             },
             {
                 "year": 2023,
-                "income": 2000,
-                "expenses": 2000,
+                "income": 5000,
+                "expenses": 5000,
                 "currency": "USD",
-                "description": "Oxford University CS PhD research grant ($2,000) supporting academic research on decentralized AI and federated learning systems."
+                "description": "University of Oxford support and compute ($5,000 equivalent) for research on decentralized AI and federated learning."
             }
         ]
     }
