@@ -22,16 +22,17 @@
 > **InfiniteZero lets AI learn from the rest — where it lives, for everyone.**
 <div align="center">
 
-### 🧪 [Try the DevNet](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/getting-started.md) · 🛠 [Contribute](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · 💬 [Join the chat](https://t.me/+h46VS3AnO384ZGI8)
+### 🧪 [Try the DevNet](https://github.com/InfiniteZeroFoundation/DevNet/blob/main/Documentation/GettingStarted.md) · 🛠 [Contribute](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · 💬 [Join the chat](https://t.me/+h46VS3AnO384ZGI8)
 
 </div>
 
 ## 📍 Where We Are Today
 
-- **DevNet 2.0 is live and experimental.** It runs on the Optimism Sepolia test network and uses test ETH, so nothing has real-money value yet. Expect bugs, changes and resets.
+- **DevNet 1.0 is live and experimental.** It runs on the Optimism Sepolia test network and uses test ETH, so nothing has real-money value yet. Expect bugs, changes and resets.
+- **DevNet 2.0 is next.** It adds the full economic layer (commit-reveal scoring, rewards, fee routing and emissions) and is being built on the DevNet `develop` branch.
 - **One tested example so far:** an MNIST image model runs end to end. Other model types are supported by design but not yet tested.
 - **Next:** a public testnet, then mainnet with a fully decentralised fair launch: no ICO and no VC allocation. Tokens go to the people who run the network.
-- **The names:** the InfiniteZero Foundation builds **DIN** (Decentralized Intelligence Network), the protocol. **DevNet** is DIN's live test network, and **`dincli`** is the command-line tool participants use.
+- **The names:** **InfiniteZero** is the protocol, built by the InfiniteZero Foundation. It was previously called DIN (Decentralized Intelligence Network), and that name still appears in the code while the rename is completed. **DevNet** is the live test network, and **`dincli`** is the command-line tool participants use.
 
 📄 [White Paper](https://github.com/InfiniteZeroFoundation/White-Paper) · 🗺 [Roadmap](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/ROADMAP.md)
 
@@ -141,8 +142,8 @@ Start with the guide that matches what you already do.
 
 | You are… | Start here |
 | :--- | :--- |
-| **Testnet participant** — you want to run a node or join a training round | 📘 [Getting started on DevNet](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/getting-started.md) |
-| **Model trainer** — you have a model + dataset | 📘 [What can I train on DIN?](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/what-can-be-trained.md) — fit, what to bring, the training round, pre-start checklist |
+| **DevNet participant** — you want to run a node or join a training round | 📘 [Getting started on DevNet 1.0](https://github.com/InfiniteZeroFoundation/DevNet/blob/main/Documentation/GettingStarted.md) |
+| **Model trainer** — you have a model + dataset | 📘 [What can I train?](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/what-can-be-trained.md) — fit, what to bring, the training round, pre-start checklist |
 | **Application developer** — you want to plug an app in | 📘 [Client onboarding](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/guides/client-onboarding.md) and [Services](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/services.md) — custom training/audit/aggregation services per model |
 | **Partner or community** — evaluating whether to join | 📘 [Partner introduction](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Documentation/public/partner-introduction.md) — roles, hardware, costs, what's settled vs. undecided |
 | **Contributor** — code, docs, research, translation | 🛠 [Good first issues](https://github.com/InfiniteZeroFoundation/DevNet/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) · [Contributing guide](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/CONTRIBUTING.md) · [Roadmap](https://github.com/InfiniteZeroFoundation/DevNet/blob/develop/Developer/ROADMAP.md) |
